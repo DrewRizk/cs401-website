@@ -8,8 +8,11 @@
     background-color: #04AA6D; test test
 } */
 
+.navbar-left-list{
+  width: 50%;
+}
 
-.navbar ul {
+.navbar-left-list ul {
     list-style-type: none;
     margin: 1px;
     padding: 0;
@@ -17,12 +20,12 @@
     background-color: white;
   }
   
-  .navbar li {
+  .navbar-left-list li {
     margin:5px;
     float: left;
   }
   
-  .navbar li a {
+  .navbar-left-list li a {
     display: block;
     color: white;
     text-align: center;
@@ -65,12 +68,14 @@
     background-color: #04AA6D;
   }
 
-  #login-button {
-      font-size: 22px;
+  .button {
       float: right;
-      border: 3px;
-      border-radius: 3px;
-      border-color: black;
+      margin: 10px 10px 10px 10px;
+  }
+
+  .button-attributes{
+    font-size: 20px;
+    cursor: pointer;
   }
 
   .subnav-bar a:active {
@@ -253,10 +258,63 @@ input[type=submit]:hover {
 
 
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .col-25, .col-75, input[type=submit] {
     width: 100%;
     margin-top: 0;
   }
-} */
+}
+
+#homepage-restuarant-path{
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 10px;
+}
+
+.profile-panel{
+  width: 650px;
+  height: 450px;
+  border: 5px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-pic{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  margin: 5px 5px 5px 5px;
+}
+
+#add-to-favorites-button{
+  margin-bottom: 100px;
+  margin-right: 50px;
+  float: left;
+}
+
+.profile-panel-textbox{
+  padding: 5px 5px 5px 5px;
+  font-size: 14px;
+  margin-top:20px;
+  width: 400px;
+  height: 100px;
+  border: 2px solid black;
+  margin: 5px 5px 5px 5px;
+}
+
+#profile-panel-write-a-review-button{
+  float:left;
+}
+
+.restaurant-images-image{
+  width: 100px;
+  height: 50px;
+  border: 2px solid black;
+  margin: 5px 5px 5px 5px;
+  display:flexbox;
+}
+
+#thanks-for-review-message{
+  margin: 10px 10px 10px 10px;
+}
 

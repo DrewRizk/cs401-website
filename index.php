@@ -2,18 +2,22 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
+    <title>RestuarantMania</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
   </head>
   <body>
     <div class ="navbar">
-      <ul>
-        <li><img id="favicon" src="https://icons.iconarchive.com/icons/sonya/swarm/256/Pizza-icon.png"/></li>
-        <li><h1> RestuarantMania </h1> </li>
-        <button id="login-button">LOGIN</button>
-        <!-- <li> <button id="login-button">LOGIN</button></li> -->
-      </ul>
-      
+        <div class="button">
+          <button class="button-attributes"> LOGIN </button>
+        </div>
+        <div class="navbar-left-list">
+          <ul>
+            <li><img id="favicon" src="https://icons.iconarchive.com/icons/sonya/swarm/256/Pizza-icon.png"/></li>
+            <li><h1> RestuarantMania </h1> </li>
+          </ul>
+        </div>
     </div>
-     <div class="subnav-bar">
+       <div class="subnav-bar">
          <ul>
            <li class="active"><a href="index.php">Home</a></li>
            <li><a href="newReview.php">New Review</a></li>
@@ -22,6 +26,8 @@
       </div>
   <div id="content">
    <h4> Browse all of the restuarants that have had reviews and are in our database! </h4>
+   <h4> Click below to see what a page of an actual restaurant will look like! <h4>
+   <a href="restuarant-page.php">Tony's Pizza</a>
   </div>
   <div id="table">
 
@@ -32,9 +38,8 @@
       <div class="dropdown">
         <button class="dropbtn">Filter</button>
         <div class="dropdown-content">
-            <a href="#">Filter 1</a>
-            <a href="#">Filter 2</a>
-            <a href="#">Filter 3</a>
+            <a href="#">Alphabetical</a>
+            <a href="#">Reverse Alphabetical</a>
         </div>
       </div>
     </th>
@@ -42,9 +47,8 @@
       <div class="dropdown">
         <button class="dropbtn">Filter</button>
         <div class="dropdown-content">
-            <a href="#">Filter 1</a>
-            <a href="#">Filter 2</a>
-           <a href="#">Filter 3</a>
+            <a href="#">Alphabetical</a>
+            <a href="#">Reverse Alphabetical</a>
        </div>
       </div>
     </th>
@@ -52,21 +56,12 @@
       <div class="dropdown">
         <button class="dropbtn">Filter</button>
         <div class="dropdown-content">
-          <a href="#">Filter 1</a>
-          <a href="#">Filter 2</a>
-          <a href="#">Filter 3</a>
+          <a href="#">Highest</a>
+          <a href="#">Lowest</a>
         </div>
       </div>
     </th>
-    <th>Reviews
-      <div class="dropdown">
-        <button class="dropbtn">Filter</button>
-        <div class="dropdown-content">
-          <a href="#">Filter 1</a>
-          <a href="#">Filter 2</a>
-          <a href="#">Filter 3</a>
-        </div>
-      </div>
+    <th>Most Recent Review
     </th>
   </tr>
   <tr>
