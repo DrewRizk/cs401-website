@@ -3,7 +3,7 @@
   <head>
     <link rel="stylesheet" href="style.css">
     <title>RestuarantMania</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
   </head>
   <body>
     <div class ="navbar">
