@@ -1,29 +1,6 @@
 
 <html>
-  <head>
-    <link rel="stylesheet" href="style.css">
-    <title>RestuarantMania</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-  </head>
-  <body>
-    <div class ="navbar">
-        <div class="button">
-          <button class="button-attributes"> LOGIN </button>
-        </div>
-        <div class="navbar-left-list">
-          <ul>
-            <li><img id="favicon" src="https://icons.iconarchive.com/icons/sonya/swarm/256/Pizza-icon.png"/></li>
-            <li><h1> RestuarantMania </h1> </li>
-          </ul>
-        </div>
-    </div>
-       <div class="subnav-bar">
-         <ul>
-           <li class="active"><a href="index.php">Home</a></li>
-           <li><a href="newReview.php">New Review</a></li>
-           <li><a href="favorites.php">Favorites</a></li>
-         </ul>
-      </div>
+<?php include("nav.php"); ?>
   <div id="content">
   <h4 id="homepage-restuarant-path"><a href="index.php">Home</a> > Tony's Pizza</h4>
    <h4> This page shows what Tony's Pizza's profile looks like I guess you could say. Ideally, each restuarant would have a profile like this.</h4>

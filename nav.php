@@ -1,3 +1,12 @@
+<?php
+   session_start();
+   if (!isset($_SESSION['auth'])) {
+      header("Location: login.php");
+      exit();
+   } 
+
+?>
+
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
@@ -5,7 +14,7 @@
   <body>
   <div class ="navbar">
         <div class="button">
-          <button class="button-attributes"> LOGIN </button>
+          <a href="login.php"><button class="button-attributes"> LOGOUT </button></a>
         </div>
         <div class="navbar-left-list">
           <ul>
@@ -19,5 +28,6 @@
            <li><a href="index.php">Home</a></li>
            <li><a href="newReview.php">New Review</a></li>
            <li><a href="favorites.php">Favorites</a></li>
+           <li><a href="restaurants.php">Restaurants</a></li>
          </ul>
       </div>

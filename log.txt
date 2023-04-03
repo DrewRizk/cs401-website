@@ -1,0 +1,27 @@
+1680029281 - WARN  --> User [drewrizk] invalid username or password 
+1680032155 - WARN  --> User [drewrizk@u.boisestate.edu] invalid username or password 
+1680032186 - WARN  --> User [eee] invalid username or password 
+1680032187 - WARN  --> User [] invalid username or password 
+1680032190 - WARN  --> User [eeee] invalid username or password 
+1680061590 - WARN  --> User [drew.rizk@gmail.com] invalid username or password 
+1680061595 - WARN  --> User [drew.rizk@gmail.com] invalid username or password 
+1680075434 - WARN  --> User [] invalid username or password 
+1680464584 - WARN  --> User [drew] invalid username or password 
+1680464996 - WARN  --> User [drewrizk] invalid username or password 
+1680465013 - WARN  --> User [drewrizk] invalid username or password 
+1680465135 - WARN  --> User [ted] invalid username or password 
+1680465141 - WARN  --> User [ted] invalid username or password 
+1680465568 - WARN  --> User [sss] invalid username or password 
+1680465572 - WARN  --> User [ted] invalid username or password 
+1680466064 - WARN  --> User [] invalid username or password 
+1680466069 - WARN  --> User [sascac] invalid username or password 
+1680556400 - WARN  -->  
+1680556400 - WARN  -->  
+1680556554 - WARN  -->  
+1680556554 - WARN  -->  
+1680556569 - WARN  -->  
+1680556569 - WARN  -->  
+1680556622 - WARN  -->  
+1680556622 - WARN  -->  
+1680556690 - WARN  -->  
+1680556690 - WARN  -->  

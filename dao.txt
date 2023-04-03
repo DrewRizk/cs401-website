@@ -1,0 +1,1179 @@
+1680070307 - WARN  --> Making it to top 
+1680070309 - WARN  --> Making it to top 
+1680070309 - WARN  --> Making it to top 
+1680070309 - WARN  --> Making it to top 
+1680070309 - WARN  --> Making it to top 
+1680070309 - WARN  --> Making it to top 
+1680070310 - WARN  --> Making it to top 
+1680070310 - WARN  --> Making it to top 
+1680070310 - WARN  --> Making it to top 
+1680070311 - WARN  --> Making it to top 
+1680070313 - WARN  --> Making it to top 
+1680070314 - WARN  --> Making it to top 
+1680070329 - WARN  --> Making it to top 
+1680070330 - WARN  --> Making it to top 
+1680070342 - WARN  --> Making it to top 
+1680070349 - WARN  --> Making it to top 
+1680070635 - WARN  --> Making it to top 
+1680070635 - WARN  --> Making it to top 
+1680070635 - WARN  --> Making it to top 
+1680070635 - WARN  --> Making it to top 
+1680070635 - WARN  --> Making it to top 
+1680070635 - WARN  --> Making it to top 
+1680070638 - WARN  --> Making it to top 
+1680070639 - WARN  --> Making it to top 
+1680070641 - WARN  --> Making it to top 
+1680070645 - WARN  --> Making it to top 
+1680071122 - WARN  --> Making it to top 
+1680071124 - WARN  --> Making it to top 
+1680071124 - WARN  --> Making it to top 
+1680071125 - WARN  --> Making it to top 
+1680071125 - WARN  --> Making it to top 
+1680071126 - WARN  --> Making it to top 
+1680071126 - WARN  --> Making it to top 
+1680071127 - WARN  --> Making it to top 
+1680071132 - WARN  --> Making it to top 
+1680071757 - WARN  --> Making it to top 
+1680071759 - WARN  --> Making it to top 
+1680071761 - WARN  --> Making it to top 
+1680071763 - WARN  --> Making it to top 
+1680071829 - WARN  --> Making it to top 
+1680071829 - WARN  --> Making it to top 
+1680071830 - WARN  --> Making it to top 
+1680071830 - WARN  --> Making it to top 
+1680071831 - WARN  --> Making it to top 
+1680071847 - WARN  --> Making it to top 
+1680071973 - WARN  --> Making it to top 
+1680071974 - WARN  --> Making it to top 
+1680071976 - WARN  --> Making it to top 
+1680071978 - WARN  --> Making it to top 
+1680071978 - WARN  --> Making it to top 
+1680071979 - WARN  --> Making it to top 
+1680072131 - WARN  --> Making it to top 
+1680072131 - WARN  --> Making it to herererererer 
+1680072132 - WARN  --> Making it to top 
+1680072132 - WARN  --> Making it to herererererer 
+1680072133 - WARN  --> Making it to top 
+1680072133 - WARN  --> Making it to herererererer 
+1680072135 - WARN  --> Making it to top 
+1680072135 - WARN  --> Making it to herererererer 
+1680072136 - WARN  --> Making it to top 
+1680072136 - WARN  --> Making it to herererererer 
+1680072246 - WARN  --> Making it to top 
+1680072246 - WARN  --> Making it to herererererer 
+1680072247 - WARN  --> Making it to top 
+1680072247 - WARN  --> Making it to herererererer 
+1680072248 - WARN  --> Making it to top 
+1680072248 - WARN  --> Making it to herererererer 
+1680072292 - WARN  --> Making it to top 
+1680072292 - WARN  --> Making it to herererererer 
+1680072293 - WARN  --> Making it to top 
+1680072293 - WARN  --> Making it to herererererer 
+1680072293 - WARN  --> Making it to top 
+1680072293 - WARN  --> Making it to herererererer 
+1680072294 - WARN  --> Making it to top 
+1680072294 - WARN  --> Making it to herererererer 
+1680072296 - WARN  --> Making it to top 
+1680072296 - WARN  --> Making it to herererererer 
+1680072632 - WARN  --> Making it to top in Dao.php 
+1680072632 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680072634 - WARN  --> Making it to top in Dao.php 
+1680072634 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073013 - WARN  --> Making it to top in Dao.php 
+1680073013 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073302 - WARN  --> Making it to top in Dao.php 
+1680073302 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073303 - WARN  --> Making it to top in Dao.php 
+1680073303 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073306 - WARN  --> Making it to top in Dao.php 
+1680073306 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073306 - WARN  --> Making it to top in Dao.php 
+1680073306 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073309 - WARN  --> Making it to top in Dao.php 
+1680073309 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073664 - WARN  --> Making it to top in Dao.php 
+1680073664 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073665 - WARN  --> Making it to top in Dao.php 
+1680073665 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073665 - WARN  --> Making it to top in Dao.php 
+1680073665 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073667 - WARN  --> Making it to top in Dao.php 
+1680073667 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073667 - WARN  --> Making it to top in Dao.php 
+1680073667 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073668 - WARN  --> Making it to top in Dao.php 
+1680073668 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073668 - WARN  --> Making it to top in Dao.php 
+1680073668 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073668 - WARN  --> Making it to top in Dao.php 
+1680073668 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073668 - WARN  --> Making it to top in Dao.php 
+1680073668 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073813 - WARN  --> Making it to top in Dao.php 
+1680073813 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073869 - WARN  --> Making it to top in Dao.php 
+1680073869 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073870 - WARN  --> Making it to top in Dao.php 
+1680073870 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073870 - WARN  --> Making it to top in Dao.php 
+1680073870 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073872 - WARN  --> Making it to top in Dao.php 
+1680073875 - WARN  --> Making it to top in Dao.php 
+1680073876 - WARN  --> Making it to top in Dao.php 
+1680073876 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073973 - WARN  --> Making it to top in Dao.php 
+1680073973 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073974 - WARN  --> Making it to top in Dao.php 
+1680073974 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680073975 - WARN  --> Making it to top in Dao.php 
+1680073975 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074171 - WARN  --> Making it to top in Dao.php 
+1680074171 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074172 - WARN  --> Making it to top in Dao.php 
+1680074172 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074173 - WARN  --> Making it to top in Dao.php 
+1680074173 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074175 - WARN  --> Making it to top in Dao.php 
+1680074176 - WARN  --> Making it to top in Dao.php 
+1680074176 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074249 - WARN  --> Making it to top in Dao.php 
+1680074249 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074250 - WARN  --> Making it to top in Dao.php 
+1680074250 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074251 - WARN  --> Making it to top in Dao.php 
+1680074251 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074252 - WARN  --> Making it to top in Dao.php 
+1680074252 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074252 - WARN  --> Making it to top in Dao.php 
+1680074252 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074290 - WARN  --> Making it to top in Dao.php 
+1680074290 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074290 - WARN  --> Making it to top in Dao.php 
+1680074290 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074299 - WARN  --> Making it to top in Dao.php 
+1680074299 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074301 - WARN  --> Making it to top in Dao.php 
+1680074301 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074302 - WARN  --> Making it to top in Dao.php 
+1680074302 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074492 - WARN  --> Making it to top in Dao.php 
+1680074492 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074493 - WARN  --> Making it to top in Dao.php 
+1680074493 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074494 - WARN  --> Making it to top in Dao.php 
+1680074494 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074495 - WARN  --> Making it to top in Dao.php 
+1680074495 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074578 - WARN  --> Making it to top in Dao.php 
+1680074578 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074580 - WARN  --> Making it to top in Dao.php 
+1680074580 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074581 - WARN  --> Making it to top in Dao.php 
+1680074581 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074613 - WARN  --> Making it to top in Dao.php 
+1680074613 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074614 - WARN  --> Making it to top in Dao.php 
+1680074614 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074614 - WARN  --> Making it to top in Dao.php 
+1680074614 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074686 - WARN  --> Making it to top in Dao.php 
+1680074686 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074687 - WARN  --> Making it to top in Dao.php 
+1680074687 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074687 - WARN  --> Making it to top in Dao.php 
+1680074687 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074687 - WARN  --> Making it to top in Dao.php 
+1680074687 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074688 - WARN  --> Making it to top in Dao.php 
+1680074688 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074688 - WARN  --> Making it to top in Dao.php 
+1680074688 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074816 - WARN  --> Making it to top in Dao.php 
+1680074816 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074817 - WARN  --> Making it to top in Dao.php 
+1680074817 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074817 - WARN  --> Making it to top in Dao.php 
+1680074817 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074818 - WARN  --> Making it to top in Dao.php 
+1680074818 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074820 - WARN  --> Making it to top in Dao.php 
+1680074820 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074821 - WARN  --> Making it to top in Dao.php 
+1680074821 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074822 - WARN  --> Making it to top in Dao.php 
+1680074822 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074855 - WARN  --> Making it to top in Dao.php 
+1680074855 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074856 - WARN  --> Making it to top in Dao.php 
+1680074856 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074856 - WARN  --> Making it to top in Dao.php 
+1680074856 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074857 - WARN  --> Making it to top in Dao.php 
+1680074859 - WARN  --> Making it to top in Dao.php 
+1680074859 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074861 - WARN  --> Making it to top in Dao.php 
+1680074861 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074862 - WARN  --> Making it to top in Dao.php 
+1680074862 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074863 - WARN  --> Making it to top in Dao.php 
+1680074863 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074898 - WARN  --> Making it to top in Dao.php 
+1680074898 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074900 - WARN  --> Making it to top in Dao.php 
+1680074900 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074928 - WARN  --> Making it to top in Dao.php 
+1680074928 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074929 - WARN  --> Making it to top in Dao.php 
+1680074929 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680074931 - WARN  --> Making it to top in Dao.php 
+1680074931 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075023 - WARN  --> Making it to top in Dao.php 
+1680075023 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075024 - WARN  --> Making it to top in Dao.php 
+1680075024 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075025 - WARN  --> Making it to top in Dao.php 
+1680075025 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075026 - WARN  --> Making it to top in Dao.php 
+1680075026 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075027 - WARN  --> Making it to top in Dao.php 
+1680075027 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075030 - WARN  --> Making it to top in Dao.php 
+1680075030 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075033 - WARN  --> Making it to top in Dao.php 
+1680075034 - WARN  --> Making it to top in Dao.php 
+1680075034 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075038 - WARN  --> Making it to top in Dao.php 
+1680075038 - WARN  --> Making it to top in Dao.php 
+1680075038 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075138 - WARN  --> Making it to top in Dao.php 
+1680075138 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075139 - WARN  --> Making it to top in Dao.php 
+1680075139 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075139 - WARN  --> Making it to top in Dao.php 
+1680075139 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075140 - WARN  --> Making it to top in Dao.php 
+1680075140 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075140 - WARN  --> Making it to top in Dao.php 
+1680075140 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075140 - WARN  --> Making it to top in Dao.php 
+1680075140 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075141 - WARN  --> Making it to top in Dao.php 
+1680075141 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075202 - WARN  --> Making it to top in Dao.php 
+1680075202 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075203 - WARN  --> Making it to top in Dao.php 
+1680075203 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075203 - WARN  --> Making it to top in Dao.php 
+1680075203 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075274 - WARN  --> Making it to top in Dao.php 
+1680075274 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075274 - WARN  --> Dao created 
+1680075274 - WARN  --> Making it to top in Dao.php 
+1680075274 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075274 - WARN  --> Dao created 
+1680075275 - WARN  --> Making it to top in Dao.php 
+1680075275 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075275 - WARN  --> Dao created 
+1680075276 - WARN  --> Making it to top in Dao.php 
+1680075276 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075276 - WARN  --> Dao created 
+1680075387 - WARN  --> Making it to top in Dao.php 
+1680075387 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075387 - WARN  --> Dao created 
+1680075388 - WARN  --> Making it to top in Dao.php 
+1680075388 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075388 - WARN  --> Dao created 
+1680075396 - WARN  --> Making it to top in Dao.php 
+1680075396 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075396 - WARN  --> Dao created 
+1680075397 - WARN  --> Making it to top in Dao.php 
+1680075397 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075397 - WARN  --> Dao created 
+1680075441 - WARN  --> Making it to top in Dao.php 
+1680075441 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075441 - WARN  --> Dao created 
+1680075445 - WARN  --> Making it to top in Dao.php 
+1680075445 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075445 - WARN  --> Dao created 
+1680075446 - WARN  --> Making it to top in Dao.php 
+1680075446 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075446 - WARN  --> Dao created 
+1680075446 - WARN  --> Making it to top in Dao.php 
+1680075446 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075446 - WARN  --> Dao created 
+1680075455 - WARN  --> Making it to top in Dao.php 
+1680075456 - WARN  --> Making it to top in Dao.php 
+1680075456 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075456 - WARN  --> Dao created 
+1680075875 - WARN  --> Making it to top in Dao.php 
+1680075875 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075875 - WARN  --> Dao created 
+1680075876 - WARN  --> Making it to top in Dao.php 
+1680075876 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075876 - WARN  --> Dao created 
+1680075876 - WARN  --> Making it to top in Dao.php 
+1680075876 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075876 - WARN  --> Dao created 
+1680075877 - WARN  --> Making it to top in Dao.php 
+1680075877 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075877 - WARN  --> Dao created 
+1680075878 - WARN  --> Making it to top in Dao.php 
+1680075879 - WARN  --> Making it to top in Dao.php 
+1680075879 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075879 - WARN  --> Dao created 
+1680075924 - WARN  --> Making it to top in Dao.php 
+1680075924 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075924 - WARN  --> Dao created 
+1680075925 - WARN  --> Making it to top in Dao.php 
+1680075925 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075925 - WARN  --> Dao created 
+1680075925 - WARN  --> Making it to top in Dao.php 
+1680075925 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075925 - WARN  --> Dao created 
+1680075937 - WARN  --> Making it to top in Dao.php 
+1680075937 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075937 - WARN  --> Dao created 
+1680075938 - WARN  --> Making it to top in Dao.php 
+1680075938 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075938 - WARN  --> Dao created 
+1680075938 - WARN  --> Making it to top in Dao.php 
+1680075938 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075938 - WARN  --> Dao created 
+1680075939 - WARN  --> Making it to top in Dao.php 
+1680075939 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075939 - WARN  --> Dao created 
+1680075940 - WARN  --> Making it to top in Dao.php 
+1680075940 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075940 - WARN  --> Dao created 
+1680075980 - WARN  --> Making it to top in Dao.php 
+1680075980 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075980 - WARN  --> Dao created 
+1680075981 - WARN  --> Making it to top in Dao.php 
+1680075981 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075981 - WARN  --> Dao created 
+1680075981 - WARN  --> Making it to top in Dao.php 
+1680075981 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075981 - WARN  --> Dao created 
+1680075981 - WARN  --> Making it to top in Dao.php 
+1680075981 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075981 - WARN  --> Dao created 
+1680075982 - WARN  --> Making it to top in Dao.php 
+1680075982 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075982 - WARN  --> Dao created 
+1680075983 - WARN  --> Making it to top in Dao.php 
+1680075983 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075983 - WARN  --> Dao created 
+1680075985 - WARN  --> Making it to top in Dao.php 
+1680075985 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680075985 - WARN  --> Dao created 
+1680076038 - WARN  --> Making it to top in Dao.php 
+1680076038 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076038 - WARN  --> Dao created 
+1680076039 - WARN  --> Making it to top in Dao.php 
+1680076039 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076039 - WARN  --> Dao created 
+1680076040 - WARN  --> Making it to top in Dao.php 
+1680076040 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076040 - WARN  --> Dao created 
+1680076319 - WARN  --> Making it to top in Dao.php 
+1680076319 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076319 - WARN  --> Dao created 
+1680076321 - WARN  --> Making it to top in Dao.php 
+1680076321 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076321 - WARN  --> Dao created 
+1680076352 - WARN  --> Making it to top in Dao.php 
+1680076352 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076352 - WARN  --> Dao created 
+1680076352 - WARN  --> Making it to top in Dao.php 
+1680076352 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076352 - WARN  --> Dao created 
+1680076353 - WARN  --> Making it to top in Dao.php 
+1680076353 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076353 - WARN  --> Dao created 
+1680076369 - WARN  --> Making it to top in Dao.php 
+1680076369 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076369 - WARN  --> Dao created 
+1680076370 - WARN  --> Making it to top in Dao.php 
+1680076370 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076370 - WARN  --> Dao created 
+1680076370 - WARN  --> Making it to top in Dao.php 
+1680076370 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076370 - WARN  --> Dao created 
+1680076370 - WARN  --> Making it to top in Dao.php 
+1680076370 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076370 - WARN  --> Dao created 
+1680076372 - WARN  --> Making it to top in Dao.php 
+1680076372 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076372 - WARN  --> Dao created 
+1680076373 - WARN  --> Making it to top in Dao.php 
+1680076373 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076373 - WARN  --> Dao created 
+1680076373 - WARN  --> Making it to top in Dao.php 
+1680076373 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076373 - WARN  --> Dao created 
+1680076374 - WARN  --> Making it to top in Dao.php 
+1680076374 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076374 - WARN  --> Dao created 
+1680076392 - WARN  --> Making it to top in Dao.php 
+1680076392 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076392 - WARN  --> Dao created 
+1680076393 - WARN  --> Making it to top in Dao.php 
+1680076393 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076393 - WARN  --> Dao created 
+1680076393 - WARN  --> Making it to top in Dao.php 
+1680076393 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076393 - WARN  --> Dao created 
+1680076395 - WARN  --> Making it to top in Dao.php 
+1680076395 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076395 - WARN  --> Dao created 
+1680076395 - WARN  --> Making it to top in Dao.php 
+1680076395 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076395 - WARN  --> Dao created 
+1680076451 - WARN  --> Making it to top in Dao.php 
+1680076451 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076451 - WARN  --> Dao created 
+1680076452 - WARN  --> Making it to top in Dao.php 
+1680076452 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076452 - WARN  --> Dao created 
+1680076453 - WARN  --> Making it to top in Dao.php 
+1680076453 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076453 - WARN  --> Dao created 
+1680076472 - WARN  --> Making it to top in Dao.php 
+1680076472 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076472 - WARN  --> Dao created 
+1680076473 - WARN  --> Making it to top in Dao.php 
+1680076473 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076473 - WARN  --> Dao created 
+1680076475 - WARN  --> Making it to top in Dao.php 
+1680076475 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076475 - WARN  --> Dao created 
+1680076475 - WARN  --> Making it to top in Dao.php 
+1680076475 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076475 - WARN  --> Dao created 
+1680076476 - WARN  --> Making it to top in Dao.php 
+1680076476 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076476 - WARN  --> Dao created 
+1680076502 - WARN  --> Making it to top in Dao.php 
+1680076502 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076502 - WARN  --> Dao created 
+1680076503 - WARN  --> Making it to top in Dao.php 
+1680076503 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076503 - WARN  --> Dao created 
+1680076504 - WARN  --> Making it to top in Dao.php 
+1680076504 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076504 - WARN  --> Dao created 
+1680076523 - WARN  --> Making it to top in Dao.php 
+1680076523 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076523 - WARN  --> Dao created 
+1680076523 - WARN  --> Making it to top in Dao.php 
+1680076523 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076523 - WARN  --> Dao created 
+1680076524 - WARN  --> Making it to top in Dao.php 
+1680076524 - WARN  --> Making it to here right above getReviews() in newReview.php 
+1680076524 - WARN  --> Dao created 
+1680076981 - WARN  --> Making it to top in Dao.php 
+1680076982 - WARN  --> Making it to top in Dao.php 
+1680076982 - WARN  --> Making it to top in Dao.php 
+1680076985 - WARN  --> Making it to top in Dao.php 
+1680076995 - WARN  --> Making it to top in Dao.php 
+1680077009 - WARN  --> Making it to top in Dao.php 
+1680077011 - WARN  --> Making it to top in Dao.php 
+1680077074 - WARN  --> Making it to top in Dao.php 
+1680077104 - WARN  --> Making it to top in Dao.php 
+1680077178 - WARN  --> Making it to top in Dao.php 
+1680077179 - WARN  --> Making it to top in Dao.php 
+1680077585 - WARN  --> Making it to top in Dao.php 
+1680077591 - WARN  --> Making it to top in Dao.php 
+1680077592 - WARN  --> Making it to top in Dao.php 
+1680077593 - WARN  --> Making it to top in Dao.php 
+1680077604 - WARN  --> Making it to top in Dao.php 
+1680078035 - WARN  --> Making it to top in Dao.php 
+1680078037 - WARN  --> Making it to top in Dao.php 
+1680078037 - WARN  --> Making it to top in Dao.php 
+1680078038 - WARN  --> Making it to top in Dao.php 
+1680078041 - WARN  --> Making it to top in Dao.php 
+1680078043 - WARN  --> Making it to top in Dao.php 
+1680078247 - WARN  --> Making it to top in Dao.php 
+1680078248 - WARN  --> Making it to top in Dao.php 
+1680078249 - WARN  --> Making it to top in Dao.php 
+1680078250 - WARN  --> Making it to top in Dao.php 
+1680078259 - WARN  --> Making it to top in Dao.php 
+1680078259 - WARN  --> Making it to top in Dao.php 
+1680078304 - WARN  --> Making it to top in Dao.php 
+1680078304 - WARN  --> Making it to top in Dao.php 
+1680078522 - WARN  --> Making it to top in Dao.php 
+1680078523 - WARN  --> Making it to top in Dao.php 
+1680078530 - WARN  --> Making it to top in Dao.php 
+1680078530 - WARN  --> Making it to top in Dao.php 
+1680078614 - WARN  --> Making it to top in Dao.php 
+1680078614 - WARN  --> Making it to top in Dao.php 
+1680078615 - WARN  --> Making it to top in Dao.php 
+1680078616 - WARN  --> Making it to top in Dao.php 
+1680078616 - WARN  --> Making it to top in Dao.php 
+1680078636 - WARN  --> Making it to top in Dao.php 
+1680078636 - WARN  --> Making it to top in Dao.php 
+1680078636 - WARN  --> Making it to top in Dao.php 
+1680078636 - WARN  --> Making it to top in Dao.php 
+1680078637 - WARN  --> Making it to top in Dao.php 
+1680078637 - WARN  --> Making it to top in Dao.php 
+1680078792 - WARN  --> Making it to top in Dao.php 
+1680078792 - WARN  --> Making it to top in Dao.php 
+1680078800 - WARN  --> Making it to top in Dao.php 
+1680078800 - WARN  --> Making it to top in Dao.php 
+1680078919 - WARN  --> Making it to top in Dao.php 
+1680078919 - WARN  --> Making it to top in Dao.php 
+1680078922 - WARN  --> Making it to top in Dao.php 
+1680078929 - WARN  --> Making it to top in Dao.php 
+1680078948 - WARN  --> Making it to top in Dao.php 
+1680078950 - WARN  --> Making it to top in Dao.php 
+1680078950 - WARN  --> Making it to top in Dao.php 
+1680078951 - WARN  --> Making it to top in Dao.php 
+1680078951 - WARN  --> Making it to top in Dao.php 
+1680078951 - WARN  --> Making it to top in Dao.php 
+1680078951 - WARN  --> Making it to top in Dao.php 
+1680078952 - WARN  --> Making it to top in Dao.php 
+1680078954 - WARN  --> Making it to top in Dao.php 
+1680078970 - WARN  --> Making it to top in Dao.php 
+1680078971 - WARN  --> Making it to top in Dao.php 
+1680078974 - WARN  --> Making it to top in Dao.php 
+1680078974 - WARN  --> Making it to top in Dao.php 
+1680078998 - WARN  --> Making it to top in Dao.php 
+1680078998 - WARN  --> Making it to top in Dao.php 
+1680124384 - WARN  --> Making it to top in Dao.php 
+1680124387 - WARN  --> Making it to top in Dao.php 
+1680124395 - WARN  --> Making it to top in Dao.php 
+1680124395 - WARN  --> Making it to top in Dao.php 
+1680124477 - WARN  --> Making it to top in Dao.php 
+1680124478 - WARN  --> Making it to top in Dao.php 
+1680124478 - WARN  --> Making it to top in Dao.php 
+1680124479 - WARN  --> Making it to top in Dao.php 
+1680124480 - WARN  --> Making it to top in Dao.php 
+1680124480 - WARN  --> Making it to top in Dao.php 
+1680124483 - WARN  --> Making it to top in Dao.php 
+1680124483 - WARN  --> Making it to top in Dao.php 
+1680124487 - WARN  --> Making it to top in Dao.php 
+1680124487 - WARN  --> Making it to top in Dao.php 
+1680124518 - WARN  --> Making it to top in Dao.php 
+1680124519 - WARN  --> Making it to top in Dao.php 
+1680124519 - WARN  --> Making it to top in Dao.php 
+1680124524 - WARN  --> Making it to top in Dao.php 
+1680124524 - WARN  --> Making it to top in Dao.php 
+1680124938 - WARN  --> Making it to top in Dao.php 
+1680124939 - WARN  --> Making it to top in Dao.php 
+1680124945 - WARN  --> Making it to top in Dao.php 
+1680124945 - WARN  --> Making it to top in Dao.php 
+1680125258 - WARN  --> Making it to top in Dao.php 
+1680125258 - WARN  --> Making it to top in Dao.php 
+1680125258 - WARN  --> Making it to top in Dao.php 
+1680125260 - WARN  --> Making it to top in Dao.php 
+1680125260 - WARN  --> Making it to top in Dao.php 
+1680125260 - WARN  --> Making it to top in Dao.php 
+1680125261 - WARN  --> Making it to top in Dao.php 
+1680125431 - WARN  --> Making it to top in Dao.php 
+1680125431 - WARN  --> Making it to top in Dao.php 
+1680125785 - WARN  --> Making it to top in Dao.php 
+1680125811 - WARN  --> Making it to top in Dao.php 
+1680125812 - WARN  --> Making it to top in Dao.php 
+1680125813 - WARN  --> Making it to top in Dao.php 
+1680125814 - WARN  --> Making it to top in Dao.php 
+1680125814 - WARN  --> Making it to top in Dao.php 
+1680125814 - WARN  --> Making it to top in Dao.php 
+1680125815 - WARN  --> Making it to top in Dao.php 
+1680125815 - WARN  --> Making it to top in Dao.php 
+1680125816 - WARN  --> Making it to top in Dao.php 
+1680125942 - WARN  --> Making it to top in Dao.php 
+1680125974 - WARN  --> Making it to top in Dao.php 
+1680125974 - WARN  --> Making it to top in Dao.php 
+1680125976 - WARN  --> Making it to top in Dao.php 
+1680125976 - WARN  --> Making it to top in Dao.php 
+1680125977 - WARN  --> Making it to top in Dao.php 
+1680125984 - WARN  --> Making it to top in Dao.php 
+1680126186 - WARN  --> Making it to top in Dao.php 
+1680126187 - WARN  --> Making it to top in Dao.php 
+1680126190 - WARN  --> Making it to top in Dao.php 
+1680126217 - WARN  --> Making it to top in Dao.php 
+1680126218 - WARN  --> Making it to top in Dao.php 
+1680126218 - WARN  --> Making it to top in Dao.php 
+1680126220 - WARN  --> Making it to top in Dao.php 
+1680126220 - WARN  --> Making it to top in Dao.php 
+1680126220 - WARN  --> Making it to top in Dao.php 
+1680126220 - WARN  --> Making it to top in Dao.php 
+1680126223 - WARN  --> Making it to top in Dao.php 
+1680126224 - WARN  --> Making it to top in Dao.php 
+1680126549 - WARN  --> Making it to top in Dao.php 
+1680126558 - WARN  --> Making it to top in Dao.php 
+1680126558 - WARN  --> Making it to top in Dao.php 
+1680126559 - WARN  --> Making it to top in Dao.php 
+1680126560 - WARN  --> Making it to top in Dao.php 
+1680126561 - WARN  --> Making it to top in Dao.php 
+1680126561 - WARN  --> Making it to top in Dao.php 
+1680126572 - WARN  --> Making it to top in Dao.php 
+1680126573 - WARN  --> Making it to top in Dao.php 
+1680126573 - WARN  --> Making it to top in Dao.php 
+1680126574 - WARN  --> Making it to top in Dao.php 
+1680126575 - WARN  --> Making it to top in Dao.php 
+1680126577 - WARN  --> Making it to top in Dao.php 
+1680126578 - WARN  --> Making it to top in Dao.php 
+1680126579 - WARN  --> Making it to top in Dao.php 
+1680126580 - WARN  --> Making it to top in Dao.php 
+1680126580 - WARN  --> Making it to top in Dao.php 
+1680126581 - WARN  --> Making it to top in Dao.php 
+1680126581 - WARN  --> Making it to top in Dao.php 
+1680126581 - WARN  --> Making it to top in Dao.php 
+1680126589 - WARN  --> Making it to top in Dao.php 
+1680126590 - WARN  --> Making it to top in Dao.php 
+1680126592 - WARN  --> Making it to top in Dao.php 
+1680126592 - WARN  --> Making it to top in Dao.php 
+1680126592 - WARN  --> Making it to top in Dao.php 
+1680126623 - WARN  --> Making it to top in Dao.php 
+1680126631 - WARN  --> Making it to top in Dao.php 
+1680126633 - WARN  --> Making it to top in Dao.php 
+1680126929 - WARN  --> Making it to top in Dao.php 
+1680126929 - WARN  --> Making it to top in Dao.php 
+1680126933 - WARN  --> Making it to top in Dao.php 
+1680126934 - WARN  --> Making it to top in Dao.php 
+1680126985 - WARN  --> Making it to top in Dao.php 
+1680126986 - WARN  --> Making it to top in Dao.php 
+1680126991 - WARN  --> Making it to top in Dao.php 
+1680126992 - WARN  --> Making it to top in Dao.php 
+1680126994 - WARN  --> Making it to top in Dao.php 
+1680126994 - WARN  --> Making it to top in Dao.php 
+1680126994 - WARN  --> Making it to top in Dao.php 
+1680126994 - WARN  --> Making it to top in Dao.php 
+1680126995 - WARN  --> Making it to top in Dao.php 
+1680126997 - WARN  --> Making it to top in Dao.php 
+1680126997 - WARN  --> Making it to top in Dao.php 
+1680126998 - WARN  --> Making it to top in Dao.php 
+1680126998 - WARN  --> Making it to top in Dao.php 
+1680127001 - WARN  --> Making it to top in Dao.php 
+1680127001 - WARN  --> Making it to top in Dao.php 
+1680127040 - WARN  --> Making it to top in Dao.php 
+1680127041 - WARN  --> Making it to top in Dao.php 
+1680127041 - WARN  --> Making it to top in Dao.php 
+1680127042 - WARN  --> Making it to top in Dao.php 
+1680127043 - WARN  --> Making it to top in Dao.php 
+1680127043 - WARN  --> Making it to top in Dao.php 
+1680127046 - WARN  --> Making it to top in Dao.php 
+1680127046 - WARN  --> Making it to top in Dao.php 
+1680127054 - WARN  --> Making it to top in Dao.php 
+1680127056 - WARN  --> Making it to top in Dao.php 
+1680127056 - WARN  --> Making it to top in Dao.php 
+1680127060 - WARN  --> Making it to top in Dao.php 
+1680127061 - WARN  --> Making it to top in Dao.php 
+1680127171 - WARN  --> Making it to top in Dao.php 
+1680127171 - WARN  --> Connection is secured 
+1680127171 - WARN  --> Making it to top in Dao.php 
+1680127171 - WARN  --> Connection is secured 
+1680127172 - WARN  --> Making it to top in Dao.php 
+1680127172 - WARN  --> Connection is secured 
+1680127172 - WARN  --> Making it to top in Dao.php 
+1680127172 - WARN  --> Connection is secured 
+1680127173 - WARN  --> Making it to top in Dao.php 
+1680127173 - WARN  --> Connection is secured 
+1680127173 - WARN  --> Making it to top in Dao.php 
+1680127173 - WARN  --> Connection is secured 
+1680127178 - WARN  --> Making it to top in Dao.php 
+1680127225 - WARN  --> Making it to top in Dao.php 
+1680127225 - WARN  --> Connection is secured 
+1680127230 - WARN  --> Making it to top in Dao.php 
+1680127243 - WARN  --> Making it to top in Dao.php 
+1680127243 - WARN  --> Connection is secured 
+1680127315 - WARN  --> Making it to top in Dao.php 
+1680127318 - WARN  --> Making it to top in Dao.php 
+1680127318 - WARN  --> Connection is secured 
+1680127397 - WARN  --> Making it to top in Dao.php 
+1680127397 - WARN  --> Connection is secured 
+1680127398 - WARN  --> Making it to top in Dao.php 
+1680127403 - WARN  --> Making it to top in Dao.php 
+1680127403 - WARN  --> Connection is secured 
+1680127436 - WARN  --> Making it to top in Dao.php 
+1680127439 - WARN  --> Making it to top in Dao.php 
+1680127443 - WARN  --> Making it to top in Dao.php 
+1680127443 - WARN  --> Connection is secured 
+1680127468 - WARN  --> Connection is secured 
+1680127618 - WARN  --> Connection is secured 
+1680127636 - WARN  --> Connection is secured 
+1680128052 - WARN  --> Connection is secured 
+1680128052 - WARN  --> After insert. 
+1680128170 - WARN  --> Connection is secured 
+1680128170 - WARN  --> After insert. 
+1680128359 - WARN  --> Connection is secured 
+1680128381 - WARN  --> Connection is secured 
+1680128571 - WARN  --> Connection is secured 
+1680130318 - WARN  --> Connection is secured 
+1680130325 - WARN  --> Connection is secured 
+1680132685 - WARN  --> Connection is secured 
+1680133652 - WARN  --> Connection is secured 
+1680133652 - WARN  --> After insert. 
+1680133652 - WARN  --> Insert failed 
+1680134224 - WARN  --> Connection is secured 
+1680134224 - WARN  --> After insert. 
+1680134224 - WARN  --> Insert failed 
+1680134896 - WARN  --> Connection is secured 
+1680134896 - WARN  --> After insert. 
+1680134896 - WARN  --> Insert failed 
+1680134973 - WARN  --> Connection is secured 
+1680134973 - WARN  --> After insert. 
+1680134973 - WARN  --> Insert failed 
+1680135080 - WARN  --> Connection is secured 
+1680135080 - WARN  --> After insert. 
+1680135080 - WARN  --> Insert failed 
+1680137352 - WARN  --> Connection is secured 
+1680137364 - WARN  --> Connection is secured 
+1680137383 - WARN  --> Connection is secured 
+1680137428 - WARN  --> Connection is secured 
+1680137482 - WARN  --> Connection is secured 
+1680137532 - WARN  --> Connection is secured 
+1680137620 - WARN  --> Connection is secured 
+1680137620 - WARN  --> After insert. 
+1680137620 - WARN  --> Insert failed 
+1680138450 - WARN  --> Connection is secured 
+1680138450 - WARN  --> After insert. 
+1680138450 - WARN  --> Insert failed 
+1680138464 - WARN  --> Connection is secured 
+1680138464 - WARN  --> After insert. 
+1680138464 - WARN  --> Insert failed 
+1680138624 - WARN  --> Connection is secured 
+1680138624 - WARN  --> After insert. 
+1680138736 - WARN  --> Connection is secured 
+1680144283 - WARN  --> Connection is secured 
+1680377082 - WARN  --> Connection is secured 
+1680378278 - WARN  --> Connection is secured 
+1680378311 - WARN  --> Connection is secured 
+1680381156 - WARN  --> Connection is secured 
+1680381168 - WARN  --> Connection is secured 
+1680381182 - WARN  --> Connection is secured 
+1680381234 - WARN  --> Connection is secured 
+1680385017 - WARN  --> Connection is secured 
+1680385862 - WARN  --> Connection is secured 
+1680497920 - WARN  --> Connection is secured 
+1680497961 - WARN  --> Hello 
+1680497962 - WARN  --> Hello 
+1680497963 - WARN  --> Hello 
+1680501247 - WARN  --> drewrizk 
+1680501248 - WARN  --> drewrizk 
+1680501249 - WARN  --> drewrizk 
+1680501249 - WARN  --> drewrizk 
+1680501250 - WARN  --> drewrizk 
+1680501250 - WARN  --> drewrizk 
+1680501251 - WARN  --> drewrizk 
+1680502003 - WARN  --> drewrizk. 
+1680502004 - WARN  --> drewrizk. 
+1680502004 - WARN  --> drewrizk. 
+1680502005 - WARN  --> drewrizk. 
+1680502005 - WARN  --> drewrizk. 
+1680502005 - WARN  --> drewrizk. 
+1680502006 - WARN  --> drewrizk. 
+1680502133 - WARN  --> drewrizk' 
+1680502133 - WARN  --> drewrizk' 
+1680502135 - WARN  --> drewrizk' 
+1680502135 - WARN  --> drewrizk' 
+1680502135 - WARN  --> drewrizk' 
+1680502136 - WARN  --> drewrizk' 
+1680502136 - WARN  --> drewrizk' 
+1680502136 - WARN  --> drewrizk' 
+1680502136 - WARN  --> drewrizk' 
+1680502137 - WARN  --> drewrizk' 
+1680502137 - WARN  --> drewrizk' 
+1680502137 - WARN  --> drewrizk' 
+1680502137 - WARN  --> drewrizk' 
+1680502162 - WARN  --> drewrizk' 
+1680502162 - WARN  --> drewrizk' 
+1680502163 - WARN  --> drewrizk' 
+1680502165 - WARN  --> drewrizk' 
+1680502165 - WARN  --> drewrizk' 
+1680502166 - WARN  --> drewrizk' 
+1680502176 - WARN  --> drewrizk' 
+1680502177 - WARN  --> drewrizk' 
+1680502177 - WARN  --> drewrizk' 
+1680502177 - WARN  --> drewrizk' 
+1680502178 - WARN  --> drewrizk' 
+1680502186 - WARN  --> drewrizk' 
+1680502225 - WARN  --> 'drewrizk' 
+1680502236 - WARN  --> 'drewrizk' 
+1680502237 - WARN  --> 'drewrizk' 
+1680502319 - WARN  --> 'drewrizk' 
+1680502319 - WARN  --> 'drewrizk' 
+1680502347 - WARN  --> 'drewrizk' 
+1680502348 - WARN  --> 'drewrizk' 
+1680502348 - WARN  --> 'drewrizk' 
+1680502405 - WARN  --> drewrizk 
+1680502406 - WARN  --> drewrizk 
+1680502446 - WARN  --> drewrizk 
+1680502447 - WARN  --> drewrizk 
+1680502447 - WARN  --> drewrizk 
+1680502447 - WARN  --> drewrizk 
+1680502447 - WARN  --> drewrizk 
+1680502456 - WARN  --> drewrizk 
+1680502456 - WARN  --> drewrizk 
+1680502456 - WARN  --> drewrizk 
+1680502457 - WARN  --> drewrizk 
+1680502465 - WARN  --> drewrizk 
+1680502465 - WARN  --> drewrizk 
+1680502466 - WARN  --> drewrizk 
+1680502466 - WARN  --> drewrizk 
+1680502466 - WARN  --> drewrizk 
+1680502467 - WARN  --> drewrizk 
+1680502467 - WARN  --> drewrizk 
+1680502476 - WARN  --> drewrizk 
+1680502476 - WARN  --> drewrizk 
+1680502477 - WARN  --> drewrizk 
+1680502495 - WARN  --> drewrizk 
+1680502495 - WARN  --> drewrizk 
+1680502498 - WARN  --> drewrizk 
+1680502498 - WARN  --> drewrizk 
+1680502499 - WARN  --> drewrizk 
+1680502499 - WARN  --> drewrizk 
+1680502503 - WARN  --> drewrizk 
+1680502504 - WARN  --> drewrizk 
+1680502514 - WARN  --> drewrizk 
+1680502517 - WARN  --> drewrizk 
+1680502517 - WARN  --> drewrizk 
+1680543867 - WARN  --> drewrizk 
+1680543868 - WARN  --> drewrizk 
+1680543868 - WARN  --> drewrizk 
+1680543869 - WARN  --> drewrizk 
+1680543870 - WARN  --> drewrizk 
+1680543870 - WARN  --> drewrizk 
+1680543870 - WARN  --> drewrizk 
+1680543898 - WARN  --> drewrizk 
+1680543898 - WARN  --> drewrizk 
+1680543899 - WARN  --> drewrizk 
+1680543947 - WARN  --> drewrizk 
+1680543948 - WARN  --> drewrizk 
+1680543951 - WARN  --> drewrizk 
+1680543953 - WARN  --> drewrizk 
+1680543973 - WARN  --> drewrizk 
+1680543973 - WARN  --> drewrizk 
+1680543974 - WARN  --> drewrizk 
+1680543974 - WARN  --> drewrizk 
+1680543974 - WARN  --> drewrizk 
+1680544003 - WARN  --> drewrizk 
+1680544006 - WARN  --> drewrizk 
+1680544007 - WARN  --> drewrizk 
+1680544007 - WARN  --> drewrizk 
+1680544007 - WARN  --> drewrizk 
+1680544008 - WARN  --> drewrizk 
+1680544008 - WARN  --> drewrizk 
+1680544054 - WARN  --> drewrizk 
+1680544054 - WARN  --> drewrizk 
+1680544054 - WARN  --> drewrizk 
+1680544055 - WARN  --> drewrizk 
+1680544055 - WARN  --> drewrizk 
+1680544328 - WARN  --> drewrizk 
+1680544389 - WARN  --> drewrizk 
+1680544390 - WARN  --> drewrizk 
+1680544511 - WARN  --> drewrizk 
+1680544511 - WARN  --> drewrizk 
+1680544518 - WARN  --> drewrizk 
+1680544637 - WARN  --> drewrizk 
+1680544638 - WARN  --> drewrizk 
+1680544712 - WARN  --> drewrizk 
+1680545047 - WARN  --> drewrizk 
+1680545048 - WARN  --> drewrizk 
+1680545048 - WARN  --> drewrizk 
+1680545049 - WARN  --> drewrizk 
+1680545049 - WARN  --> drewrizk 
+1680545049 - WARN  --> drewrizk 
+1680545049 - WARN  --> drewrizk 
+1680545050 - WARN  --> drewrizk 
+1680545074 - WARN  --> drewrizk 
+1680545074 - WARN  --> drewrizk 
+1680545118 - WARN  --> drewrizk 
+1680545119 - WARN  --> drewrizk 
+1680545163 - WARN  --> drewrizk 
+1680545164 - WARN  --> drewrizk 
+1680545164 - WARN  --> drewrizk 
+1680545165 - WARN  --> drewrizk 
+1680545165 - WARN  --> drewrizk 
+1680545165 - WARN  --> drewrizk 
+1680545266 - WARN  --> drewrizk 
+1680545267 - WARN  --> drewrizk 
+1680545337 - WARN  --> drewrizk 
+1680545338 - WARN  --> drewrizk 
+1680545341 - WARN  --> drewrizk 
+1680545461 - WARN  --> drewrizk 
+1680545477 - WARN  --> drewrizk 
+1680545478 - WARN  --> drewrizk 
+1680545478 - WARN  --> drewrizk 
+1680545479 - WARN  --> drewrizk 
+1680545491 - WARN  --> drewrizk 
+1680545492 - WARN  --> drewrizk 
+1680545492 - WARN  --> drewrizk 
+1680545493 - WARN  --> drewrizk 
+1680545493 - WARN  --> drewrizk 
+1680545494 - WARN  --> drewrizk 
+1680545494 - WARN  --> drewrizk 
+1680545501 - WARN  --> drewrizk 
+1680545502 - WARN  --> drewrizk 
+1680545502 - WARN  --> drewrizk 
+1680545518 - WARN  --> ted 
+1680545535 - WARN  --> ted 
+1680545546 - WARN  --> ted 
+1680545567 - WARN  --> ted 
+1680545567 - WARN  --> ted 
+1680545567 - WARN  --> ted 
+1680545575 - WARN  --> ted 
+1680545576 - WARN  --> ted 
+1680545610 - WARN  --> ted 
+1680545622 - WARN  --> ted 
+1680545628 - WARN  --> ted 
+1680546059 - WARN  --> ted 
+1680546065 - WARN  --> ted 
+1680546070 - WARN  --> ted 
+1680546072 - WARN  --> ted 
+1680546078 - WARN  --> ted 
+1680546079 - WARN  --> ted 
+1680546314 - WARN  --> ted 
+1680546317 - WARN  --> ted 
+1680546455 - WARN  -->  
+1680546455 - WARN  --> New test 
+1680546455 - WARN  --> ted 
+1680546511 - WARN  --> ted 
+1680546512 - WARN  --> ted 
+1680546517 - WARN  --> /////////// 
+1680546517 - WARN  -->  
+1680546517 - WARN  --> New test 
+1680546517 - WARN  --> ted 
+1680546571 - WARN  --> /////////// 
+1680546571 - WARN  -->  
+1680546571 - WARN  --> New test 
+1680546571 - WARN  --> drewrizk 
+1680546954 - WARN  --> /////////// 
+1680546954 - WARN  -->  
+1680546954 - WARN  --> New test 
+1680546954 - WARN  --> drewrizk 
+1680547035 - WARN  --> /////////// 
+1680547035 - WARN  --> Array 
+1680547035 - WARN  --> New test 
+1680547035 - WARN  --> drewrizk 
+1680547194 - WARN  --> /////////// 
+1680547194 - WARN  --> Array 
+1680547194 - WARN  --> New test 
+1680547194 - WARN  --> drewrizk 
+1680547488 - WARN  --> /////////// 
+1680547488 - WARN  --> Array 
+1680547488 - WARN  --> 1 
+1680547488 - WARN  --> New test 
+1680547488 - WARN  --> drewrizk 
+1680547529 - WARN  --> /////////// 
+1680547529 - WARN  --> Array 
+1680547529 - WARN  --> 1 
+1680547529 - WARN  --> New test 
+1680547529 - WARN  --> drewrizk 
+1680547600 - WARN  --> /////////// 
+1680547600 - WARN  --> Array 
+1680547600 - WARN  --> New test 
+1680547600 - WARN  --> drewrizk 
+1680547688 - WARN  --> /////////// 
+1680547688 - WARN  --> Array 
+1680547688 - WARN  --> New test 
+1680547688 - WARN  --> drewrizk 
+1680547774 - WARN  --> /////////// 
+1680547774 - WARN  --> Array 
+1680547774 - WARN  --> New test 
+1680547774 - WARN  --> drewrizk 
+1680547921 - WARN  --> /////////// 
+1680547921 - WARN  --> Array 
+1680547921 - WARN  --> Mel 
+1680547921 - WARN  --> drewrizk 
+1680548474 - WARN  --> /////////// 
+1680548474 - WARN  --> Array 
+1680548474 - WARN  --> David 
+1680548474 - WARN  --> ted 
+1680548772 - WARN  --> /////////// 
+1680548772 - WARN  --> Array 
+1680548772 - WARN  --> Sarah 
+1680548772 - WARN  --> ted 
+1680549437 - WARN  --> /////////// 
+1680549437 - WARN  --> Array 
+1680549437 - WARN  --> Joe 
+1680549437 - WARN  --> ted 
+1680549700 - WARN  --> /////////// 
+1680549700 - WARN  --> Array 
+1680549700 - WARN  --> Mel 
+1680549700 - WARN  --> david 
+1680549863 - WARN  --> /////////// 
+1680549863 - WARN  --> Array 
+1680549863 - WARN  --> David 
+1680549863 - WARN  --> michael 
+1680550298 - WARN  --> Connection is secured 
+1680550318 - WARN  --> Connection is secured 
+1680555160 - WARN  --> Connection is secured 
+1680555216 - WARN  --> Connection is secured 
+1680555283 - WARN  --> Connection is secured 
+1680555388 - WARN  --> Connection is secured 
+1680555603 - WARN  --> Connection is secured 
+1680555941 - WARN  --> Connection is secured 
+1680556076 - WARN  --> Array 
+1680556076 - WARN  --> Array 
+1680556076 - WARN  --> Array 
+1680556076 - WARN  --> Array 
+1680556076 - WARN  --> Array 
+1680556256 - WARN  --> Array 
+1680556256 - WARN  --> Array 
+1680556256 - WARN  --> Array 
+1680556256 - WARN  --> Array 
+1680556256 - WARN  --> Array 
+1680556400 - WARN  --> Array 
+1680556400 - WARN  --> Array 
+1680556400 - WARN  --> Array 
+1680556400 - WARN  --> Array 
+1680556400 - WARN  --> Array 
+1680556554 - WARN  --> Array 
+1680556554 - WARN  --> Array 
+1680556554 - WARN  --> Array 
+1680556554 - WARN  --> Array 
+1680556554 - WARN  --> Array 
+1680556569 - WARN  --> Array 
+1680556569 - WARN  --> Array 
+1680556569 - WARN  --> Array 
+1680556569 - WARN  --> Array 
+1680556569 - WARN  --> Array 
+1680556752 - WARN  -->  
+1680556752 - WARN  -->  
+1680556923 - WARN  -->  
+1680556923 - WARN  -->  
+1680557089 - WARN  -->  
+1680557089 - WARN  -->  
+1680557089 - WARN  --> Array 
+1680557089 - WARN  --> Array 
+1680557089 - WARN  --> Array 
+1680557089 - WARN  --> Array 
+1680557089 - WARN  --> Array 
+1680557199 - WARN  -->  
+1680557199 - WARN  -->  
+1680557199 - WARN  --> Array 
+1680557199 - WARN  --> Array 
+1680557199 - WARN  --> Array 
+1680557199 - WARN  --> Array 
+1680557199 - WARN  --> Array 
+1680557528 - WARN  -->  
+1680557528 - WARN  -->  
+1680557528 - WARN  --> drewrizk 
+1680557528 - WARN  --> Hello Angies 
+1680557528 - WARN  --> Array 
+1680557528 - WARN  --> Array 
+1680557528 - WARN  --> Array 
+1680557528 - WARN  --> Array 
+1680557528 - WARN  --> Array 
+1680557713 - WARN  --> michael 
+1680557713 - WARN  --> Dom's 
+1680557713 - WARN  --> Boise 
+1680557713 - WARN  --> 4 
+1680557713 - WARN  --> Calzones are great! 
+1680557713 - WARN  --> Array 
+1680557713 - WARN  --> Array 
+1680557713 - WARN  --> Array 
+1680557713 - WARN  --> Array 
+1680557713 - WARN  --> Array 
+1680557884 - WARN  --> drewrizk 
+1680557884 - WARN  --> Hello Angies 
+1680557884 - WARN  --> Boise 
+1680557884 - WARN  --> 4 
+1680557884 - WARN  --> WOW 
+1680557884 - WARN  --> Array 
+1680557884 - WARN  --> Array 
+1680557884 - WARN  --> Array 
+1680557884 - WARN  --> Array 
+1680557884 - WARN  --> Array 
+1680558657 - WARN  --> /////////// 
+1680558657 - WARN  --> Array 
+1680558657 - WARN  --> Joe 
+1680558657 - WARN  --> drewrizk 
+1680558658 - WARN  --> /////////// 
+1680558658 - WARN  --> Array 
+1680558658 - WARN  --> New test 
+1680558658 - WARN  --> drewrizk 
+1680558668 - WARN  --> /////////// 
+1680558668 - WARN  --> Array 
+1680558668 - WARN  --> Katie 
+1680558668 - WARN  --> drewrizk 
+1680558825 - WARN  --> /////////// 
+1680558825 - WARN  --> Array 
+1680558825 - WARN  --> Sarah 
+1680558825 - WARN  --> drewrizk 
+1680558830 - WARN  --> /////////// 
+1680558830 - WARN  --> Array 
+1680558830 - WARN  --> David 
+1680558830 - WARN  --> drewrizk 
+1680558865 - WARN  --> /////////// 
+1680558865 - WARN  --> Array 
+1680558865 - WARN  --> Joe 
+1680558865 - WARN  --> drewrizk 
+1680558866 - WARN  --> /////////// 
+1680558866 - WARN  --> Array 
+1680558866 - WARN  --> Joe 
+1680558866 - WARN  --> drewrizk 
+1680559527 - WARN  --> /////////// 
+1680559527 - WARN  --> Array 
+1680559527 - WARN  --> 1 
+1680559527 - WARN  --> Joe 
+1680559527 - WARN  --> drewrizk 
+1680559620 - WARN  --> /////////// 
+1680559620 - WARN  --> Array 
+1680559620 - WARN  --> 1 
+1680559620 - WARN  --> Joe 
+1680559620 - WARN  --> drewrizk 
+1680559624 - WARN  --> /////////// 
+1680559624 - WARN  --> Array 
+1680559624 - WARN  --> 1 
+1680559624 - WARN  --> Katie 
+1680559624 - WARN  --> drewrizk 
+1680559630 - WARN  --> /////////// 
+1680559630 - WARN  --> Array 
+1680559630 - WARN  --> 1 
+1680559630 - WARN  --> New test 
+1680559630 - WARN  --> drewrizk 
+1680559793 - WARN  --> /////////// 
+1680559793 - WARN  --> 1 
+1680559793 - WARN  --> Joe 
+1680559793 - WARN  --> drewrizk 
+1680559819 - WARN  --> /////////// 
+1680559819 - WARN  --> 1 
+1680559819 - WARN  --> Sarah 
+1680559819 - WARN  --> drewrizk 
+1680559846 - WARN  --> /////////// 
+1680559846 - WARN  --> 1 
+1680559846 - WARN  --> New test 
+1680559846 - WARN  --> drewrizk 
+1680559917 - WARN  --> /////////// 
+1680559917 - WARN  --> 1 
+1680559917 - WARN  --> New test 
+1680559917 - WARN  --> drewrizk 
+1680559927 - WARN  --> /////////// 
+1680559927 - WARN  --> 1 
+1680559927 - WARN  --> David 
+1680559927 - WARN  --> drewrizk 
+1680560021 - WARN  --> Anthony 
+1680560021 - WARN  --> Piehole Pizza 
+1680560021 - WARN  --> Boston 
+1680560021 - WARN  --> 4 
+1680560021 - WARN  --> really good late at night. 
+1680560021 - WARN  --> Array 
+1680560021 - WARN  --> Array 
+1680560021 - WARN  --> Array 
+1680560021 - WARN  --> Array 
+1680560021 - WARN  --> Array 
+1680560479 - WARN  --> /////////// 
+1680560479 - WARN  --> 2 
+1680560479 - WARN  --> David 
+1680560479 - WARN  --> ted 
+1680560540 - WARN  --> /////////// 
+1680560540 - WARN  --> 2 
+1680560540 - WARN  --> Davids Place 
+1680560540 - WARN  --> ted 
+1680560542 - WARN  --> /////////// 
+1680560542 - WARN  --> 2 
+1680560542 - WARN  --> Joes Pizza 
+1680560542 - WARN  --> ted 
+1680560598 - WARN  --> david456 
+1680560598 - WARN  --> DePaul's 
+1680560598 - WARN  --> Boise 
+1680560598 - WARN  --> 4.5 
+1680560598 - WARN  --> Loved the lemon salmon and the waiting staff was excellent! 
+1680560598 - WARN  --> Array 
+1680560598 - WARN  --> Array 
+1680560598 - WARN  --> Array 
+1680560598 - WARN  --> Array 
+1680560598 - WARN  --> Array 
