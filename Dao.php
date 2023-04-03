@@ -30,7 +30,7 @@ class Dao {
     //PASSWORD: 0ce3ee12
     //HOST: us-cdbr-east-06.cleardb.net
     return
-      new PDO("mysql:host=$cleardb_server;port=8889;dbname=$cleardb_db", $cleardb_username,
+      new PDO("mysql:host=$cleardb_server;dbname=$cleardb_db", $cleardb_username,
           $cleardb_password);
   }
 
