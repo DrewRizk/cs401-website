@@ -11,17 +11,32 @@ $logger = new KLogger ("dao.txt" , KLogger::WARN);
 // class for saving and getting comments from MySQL
 class Dao {
 
-  private $host = "localhost";
-  private $db = "drewrizk";
-  private $user = "root";
-  private $pass = "root";
-  private $port = 8889;
+  // private $host = "localhost";
+  // private $db = "drewrizk";
+  // private $user = "root";
+  // private $pass = "root";
+  // private $port = 8889;
 
   public function getConnection () {
+    $cleardb_url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+    $cleardb_server = $cleardb_url["host"];
+    $cleardb_username = $cleardb_url["user"];
+    $cleardb_password = $cleardb_url["pass"];
+    $cleardb_db = substr($cleardb_url["path"],1);
+    $active_group = 'default';
+    $query_builder = TRUE;
+    // mysql://b4d97d845bc720:0ce3ee12@us-cdbr-east-06.cleardb.net/heroku_b592ca53113e7d3?reconnect=true
+    // UN: b4d97d845bc720
+    //PASSWORD: 0ce3ee12
+    //HOST: us-cdbr-east-06.cleardb.net
     return
-      new PDO("mysql:host={$this->host};port={$this->port};dbname={$this->db}", $this->user,
-          $this->pass);
+      new PDO("mysql:host=$cleardb_server;dbname=$cleardb_db", $cleardb_username,
+          $cleardb_password);
   }
+
+  // return
+  // new PDO("mysql:host={$this->host};port={$this->port};dbname={$this->db}", $this->user,
+  //     $this->pass);
 
   public function deleteReview ($id) {
     $conn = $this->getConnection();
