@@ -32,8 +32,11 @@ if ($user_id == true){
 // }
 // $id = 
 if ($exists == true){
+  $logger = new KLogger("dao.txt" , KLogger::WARN);
+  $logger->LogWarn("Good");
   header("Location: newReview.php"); //user already exists
 }else{
+  $logger->LogWarn("Bad");
   // $_SESSION['message'] = "Username does not exist";
   header("Location: login.php"); //new user has been created
 }

@@ -129,12 +129,16 @@ class Dao {
     $q->bindParam(':username', $username);
     $q->bindParam(':password', $password);
     $q->execute();
+    $logger = new KLogger("dao.txt" , KLogger::WARN);
+
 
     if($q->rowCount() > 0){
+      $logger->LogWarn("Its finding the user");
 
         echo "exists!";
         return true;
     } else {
+      $logger->LogWarn("Its not finding the user");
         echo "non existant";
         return false;
     }
