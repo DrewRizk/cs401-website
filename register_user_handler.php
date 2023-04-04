@@ -8,6 +8,7 @@ error_reporting(E_ALL);
 
   $username = $_POST['new_username'];
   $password = $_POST['new_password'];
+  $_SESSION['inputs'] = $_POST;
 
   if (strlen($username) > 32) {
     $_SESSION['message'] = "Username too long!";

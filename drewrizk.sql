@@ -1,3 +1,6 @@
+
+
+
 CREATE TABLE user (
     user_id int not null auto_increment PRIMARY KEY, --dedicated primary key--
     email VARCHAR(32) NOT NULL, 

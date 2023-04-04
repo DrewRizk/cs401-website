@@ -16,7 +16,6 @@ require_once 'Dao.php';
   $_SESSION['inputs'] = $_POST;
 
   if (empty($username)) {
-    $errors[] = "Username cannot be empty";
     $_SESSION['message'] = "*Please enter a username";
     header("Location: newReview.php");
     exit();
@@ -24,7 +23,6 @@ require_once 'Dao.php';
     $username = test_input($username);
   }
   if (empty($restaurant_name)) {
-    $errors[] = "Must enter a name of a restaurant that the review is for";
     $_SESSION['message'] = "*Please enter a review";
     header("Location: newReview.php");
     exit();
@@ -39,7 +37,6 @@ require_once 'Dao.php';
   }
 
   if (empty($review)) {
-    $errors[] = "Review is too long";
     $_SESSION['message'] = "*Please enter a review";
     header("Location: newReview.php");
     exit();
