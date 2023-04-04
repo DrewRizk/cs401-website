@@ -34,6 +34,7 @@ if ($user_id == true){
 if ($exists == true){
   $logger = new KLogger("dao.txt" , KLogger::WARN);
   $logger->LogWarn("Good");
+  $_SESSION['auth'] = true;
   header("Location: newReview.php"); //user already exists
 }else{
   $logger->LogWarn("Bad");
