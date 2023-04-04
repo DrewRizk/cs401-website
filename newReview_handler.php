@@ -13,27 +13,51 @@ require_once 'Dao.php';
   $rating = $_POST['rating'];
   $review = $_POST['review'];
 
-  //$_SESSION['inputs'] = $_POST;
+  $_SESSION['inputs'] = $_POST;
 
-  // if (empty($username)) {
-  //   $errors[] = "Username cannot be empty";
-  //   $_SESSION['message'] = "Please enter a username";
-  //   header("Location: newReview.php");
-  //   exit();
-  // }
+  if (empty($username)) {
+    $errors[] = "Username cannot be empty";
+    $_SESSION['message'] = "*Please enter a username";
+    header("Location: newReview.php");
+    exit();
+  }else{
+    $username = test_input($username);
+  }
+  if (empty($restaurant_name)) {
+    $errors[] = "Must enter a name of a restaurant that the review is for";
+    $_SESSION['message'] = "*Please enter a review";
+    header("Location: newReview.php");
+    exit();
+  } else {
+      $restaurant_name = test_input($restaurant_name);
+      // check if name only contains letters and whitespace
+      if (!preg_match("/^[a-zA-Z-' ]*$/",$restaurant_name)) {
+        $_SESSION['message'] = "*Please enter a valid restaurant name that only consists of letters";
+        header("Location: newReview.php");
+        exit();
+      }
+  }
 
-  // if (empty($review)) {
-  //   $errors[] = "Review is too long";
-  //   $_SESSION['message'] = "Please enter a review";
-  //   header("Location: newReview.php");
-  //   exit();
-  // }
+  if (empty($review)) {
+    $errors[] = "Review is too long";
+    $_SESSION['message'] = "*Please enter a review";
+    header("Location: newReview.php");
+    exit();
+  }else{
+    $review = test_input($review);
+    if (!preg_match("/^[A-Za-z0-9' ]*$/",$review)) {
+      $_SESSION['message'] = "*Please enter a valid restaurant review that only consists of letters and numbers";
+      header("Location: newReview.php");
+      exit();
+    }
+  }
 
-  // if (empty($review)) {
-  //   $errors[] = "Review field cannot be empty";
-  //   header("Location: newReview.php");
-  //   exit();
-  // }
+  function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
 
 
 // if (sizeof($errors) > 0) {

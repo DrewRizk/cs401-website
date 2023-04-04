@@ -8,15 +8,19 @@ ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
 
-if(isset($_SESSION['message'])) {
-  echo "<div id='message'>" . $_SESSION['message'] . "</div>";
-  unset($_SESSION['message']);
-}
+
 
 ?>
   <div id="content">
-    <h4> Create a new review using the form below: </h4>
+    <h4 class="guidance_messages"> Create a new review using the form below: </h4>
   </div>
+  <?php
+  if(isset($_SESSION['message'])) {
+  echo "<div id='message'>" . $_SESSION['message'] . "</div>";
+  unset($_SESSION['message']);
+  }
+  ?>
+
     <div class="container">
      <form id="newReview_form" action="newReview_handler.php" method="POST" enctype="multipart/form-data">
       <div class="row">
@@ -24,7 +28,7 @@ if(isset($_SESSION['message'])) {
           <label for="username">Username</label>
         </div>
         <div class="col-75">
-          <input type="text" id="username" name="username" placeholder="Your RestuarantMania Username...">
+          <input type="text"  id="username" name="username" placeholder="Your RestuarantMania Username..." value="<?php echo isset($_SESSION['inputs']['username']) ? $_SESSION['inputs']['username'] : '' ?>">
         </div>
       </div>
       <div class="row">
@@ -32,7 +36,7 @@ if(isset($_SESSION['message'])) {
           <label for="restaurant_name">Restuarant Name</label>
         </div>
         <div class="col-75">
-          <input type="text" id="restaurant_name" name="restaurant_name" placeholder="Put the name of the restuarant here...">
+          <input type="text" id="restaurant_name" name="restaurant_name" placeholder="Put the name of the restuarant here..." value="<?php echo isset($_SESSION['inputs']['restaurant_name']) ? $_SESSION['inputs']['restaurant_name'] : '' ?>">
         </div>
       </div>
       <div class="row">
@@ -43,7 +47,10 @@ if(isset($_SESSION['message'])) {
           <select id="location" name="location">
             <option value="Boise">Boise</option>
             <option value="Boston">Boston</option>
-            <option value="Charlston">Charlston</option>
+            <option value="Charlston">Seattle</option>
+            <option value="Charlston">Portland</option>
+            <option value="Charlston">Chicago</option>
+            <option value="Charlston">New York City</option>
           </select>
         </div>
       </div>
@@ -52,7 +59,7 @@ if(isset($_SESSION['message'])) {
           <label for="rating">Rating out of 5 stars</label>
         </div>
         <div class="col-75">
-          <input type="number" step="0.01" id="rating" name="rating" placeholder="Rating out of 5...">
+          <input type="number" step="0.1" min="0" max="5" id="rating" name="rating">
         </div>
       </div>
       <div class="row">
@@ -60,7 +67,7 @@ if(isset($_SESSION['message'])) {
           <label for="Review">Review Message</label>
         </div>
         <div class="col-75">
-          <input type="text" step="0.01" id="Review" name="review" placeholder="Enter your review message here...">
+          <input type="text" id="Review" name="review" placeholder="Enter your review message here..." value="<?php echo isset($_SESSION['inputs']['review']) ? $_SESSION['inputs']['review'] : '' ?>">
         </div>
       </div>
       <div class="row">

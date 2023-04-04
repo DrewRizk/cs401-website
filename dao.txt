@@ -1230,3 +1230,102 @@
 1680576291 - WARN  --> Array 
 1680576291 - WARN  --> Array 
 1680576291 - WARN  --> Array 
+1680581391 - WARN  --> Its finding the user 
+1680581391 - WARN  --> Good 
+1680581478 - WARN  --> Harvey 
+1680581478 - WARN  --> Sal's 
+1680581478 - WARN  --> Charlston 
+1680581478 - WARN  --> 6 
+1680581478 - WARN  --> It was great 
+1680581479 - WARN  --> Array 
+1680581479 - WARN  --> Array 
+1680581479 - WARN  --> Array 
+1680581479 - WARN  --> Array 
+1680581479 - WARN  --> Array 
+1680582748 - WARN  --> Its finding the user 
+1680582749 - WARN  --> Good 
+1680582848 - WARN  --> drewrizk 
+1680582848 - WARN  --> Hello Tuesday's 
+1680582848 - WARN  --> Boise 
+1680582848 - WARN  --> 4 
+1680582848 - WARN  --> Yes go here 
+1680582849 - WARN  --> Array 
+1680582849 - WARN  --> Array 
+1680582849 - WARN  --> Array 
+1680582849 - WARN  --> Array 
+1680582849 - WARN  --> Array 
+1680582925 - WARN  --> Its finding the user 
+1680582926 - WARN  --> Good 
+1680583885 - WARN  --> drew 
+1680583885 - WARN  --> hello123 
+1680583885 - WARN  --> Boise 
+1680583885 - WARN  -->  
+1680583885 - WARN  --> great food 
+1680583885 - WARN  --> Array 
+1680583885 - WARN  --> Array 
+1680583885 - WARN  --> Array 
+1680583885 - WARN  --> Array 
+1680583885 - WARN  --> Array 
+1680583984 - WARN  --> Its not finding the user 
+1680583990 - WARN  --> Its finding the user 
+1680583991 - WARN  --> Good 
+1680584007 - WARN  --> drewrizk 
+1680584007 - WARN  --> Hello Angies 
+1680584007 - WARN  --> Boise 
+1680584007 - WARN  --> 4 
+1680584007 - WARN  --> Great food and stuff! 
+1680584008 - WARN  --> Array 
+1680584008 - WARN  --> Array 
+1680584008 - WARN  --> Array 
+1680584008 - WARN  --> Array 
+1680584008 - WARN  --> Array 
+1680584207 - WARN  --> drewrizk 
+1680584207 - WARN  --> Hello Angies123 
+1680584207 - WARN  --> Boise 
+1680584207 - WARN  -->  
+1680584207 - WARN  --> Great food and stuff! 
+1680584207 - WARN  --> Array 
+1680584207 - WARN  --> Array 
+1680584207 - WARN  --> Array 
+1680584207 - WARN  --> Array 
+1680584207 - WARN  --> Array 
+1680584215 - WARN  --> drewrizk 
+1680584215 - WARN  --> Hello Angies123 
+1680584215 - WARN  --> Boise 
+1680584215 - WARN  -->  
+1680584215 - WARN  --> Great food and stuff 
+1680584216 - WARN  --> Array 
+1680584216 - WARN  --> Array 
+1680584216 - WARN  --> Array 
+1680584216 - WARN  --> Array 
+1680584216 - WARN  --> Array 
+1680584409 - WARN  --> drewrizk 
+1680584409 - WARN  --> Ayo 
+1680584409 - WARN  --> Boise 
+1680584409 - WARN  -->  
+1680584409 - WARN  --> Greatfoodandstuff 
+1680584410 - WARN  --> Array 
+1680584410 - WARN  --> Array 
+1680584410 - WARN  --> Array 
+1680584410 - WARN  --> Array 
+1680584410 - WARN  --> Array 
+1680584426 - WARN  --> drewrizk 
+1680584426 - WARN  --> Ayo Hi 
+1680584426 - WARN  --> Boise 
+1680584426 - WARN  --> 4 
+1680584426 - WARN  --> Greatfoodandstuff 
+1680584426 - WARN  --> Array 
+1680584426 - WARN  --> Array 
+1680584426 - WARN  --> Array 
+1680584426 - WARN  --> Array 
+1680584426 - WARN  --> Array 
+1680584473 - WARN  --> drewrizk 
+1680584473 - WARN  --> Ayo Hi 
+1680584473 - WARN  --> Boise 
+1680584473 - WARN  -->  
+1680584473 - WARN  --> Great foodand stuff 
+1680584473 - WARN  --> Array 
+1680584473 - WARN  --> Array 
+1680584473 - WARN  --> Array 
+1680584473 - WARN  --> Array 
+1680584473 - WARN  --> Array 
