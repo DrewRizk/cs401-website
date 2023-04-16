@@ -384,14 +384,53 @@ input[type=submit]:hover {
 
 }
 
-#message{
-  margin-left: 50px;
-  margin-top: 10px;
-  color:red;
+#message {
+  width: 200px;
+  padding: 10 10;
+  margin-bottom: 10px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.sad {
+  background-color: red;
+}
+
+.happy {
+  background-color: green;
+}
+
+.close {
+  font-size: 10px;
+  position: relative;
+  top: -10px;
+  right: -15px;
+  cursor:pointer;
+  margin: 5px 5px 5px 150px;
+}
+
+.close:hover {
+  text-decoration:underline;
 }
 
 h4{
   margin-left: 500px;
+}
+
+a:focus {
+  background-color: #04AA6D;
+  
+}
+.active{
+  background-color: #04AA6D;
+}
+
+.myButtons{
+  background-color: #333;
+}
+
+.myActiveButton{
+  background-color: #04AA6D;
 }
 
 

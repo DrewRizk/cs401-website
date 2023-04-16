@@ -6,11 +6,15 @@ error_reporting(E_ALL);
 require_once 'Dao.php';
 
 require_once 'KLogger.php';
-$logger = new KLogger ("log.txt" , KLogger::WARN);
+$logger = new KLogger ("dao.txt" , KLogger::WARN);
 
 
 $username = $_POST['username'];
 $password = $_POST['password'];
+//hash inputted password and compare it to the password in database
+$salt = "mysalt";
+$hashed_password = crypt($password, $salt);
+$logger->LogWarn($hashed_password);
 $_SESSION['name'] = $username;
 
 $_SESSION['inputs'] = $_POST;
@@ -19,7 +23,7 @@ $_SESSION['inputs'] = $_POST;
 
 $dao = new Dao();
 // $id = $dao->getCurrentUserId($username);
-$exists = $dao->getUserCredentials($username, $password);
+$exists = $dao->getUserCredentials($username, $hashed_password);
 $user_id = $dao->getCurrentUserId($username);
 $first_index = reset($user_id);
 

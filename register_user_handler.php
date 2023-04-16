@@ -10,6 +10,9 @@ error_reporting(E_ALL);
   $password = $_POST['new_password'];
   $_SESSION['inputs'] = $_POST;
 
+  $salt = "mysalt";
+  $hashed_password = crypt($password, $salt);
+
   if (strlen($username) > 32) {
     $_SESSION['message'] = "Username too long!";
     header("Location: register_user.php");
@@ -38,7 +41,7 @@ error_reporting(E_ALL);
     $_SESSION['message'] = "Username already exists!";
     header("Location: register_user.php"); //user already exists
   }else{
-    $dao->saveUser($username, $password);
+    $dao->saveUser($username, $hashed_password);
     header("Location: login.php"); //new user has been created
   }
   

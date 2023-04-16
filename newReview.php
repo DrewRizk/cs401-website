@@ -16,7 +16,8 @@ error_reporting(E_ALL);
   </div>
   <?php
   if(isset($_SESSION['message'])) {
-  echo "<div id='message'>" . $_SESSION['message'] . "</div>";
+  echo "<div class='" . $_SESSION['message_type'] . "' id='message'>" . $_SESSION['message'] . " <div class='close'>X</div></div>";
+  // echo "<div class='" . $_SESSION['message_type'] . "' id='message'>" . $_SESSION['message'] . " <span class='close'>X</span></div>";
   unset($_SESSION['message']);
   }
   ?>
