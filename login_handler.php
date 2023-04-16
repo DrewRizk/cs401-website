@@ -16,9 +16,27 @@ $salt = "mysalt";
 $hashed_password = crypt($password, $salt);
 $logger->LogWarn($hashed_password);
 $_SESSION['name'] = $username;
-
 $_SESSION['inputs'] = $_POST;
-// $logger->LogDebug("User [{$username}] attempting to log in");
+
+if (empty($username) && empty($password)) {
+  $_SESSION['message'] = "*Please enter a username \n*Please enter a passsword";
+  $_SESSION['message_type'] = "sad";
+  header("Location: login.php");
+  exit();
+}
+
+if (empty($username)) {
+  $_SESSION['message'] = "*Please enter a username";
+  $_SESSION['message_type'] = "sad";
+  header("Location: login.php");
+  exit();
+}
+if (empty($password)) {
+  $_SESSION['message'] = "*Please enter a password";
+  $_SESSION['message_type'] = "sad";
+  header("Location: login.php");
+  exit();
+}
 
 
 $dao = new Dao();
@@ -31,10 +49,7 @@ if ($user_id == true){
   $_SESSION['id'] = $first_index;
   // header("Location: newReview.php"); //user already exists
 }
-// }else{
-//   header("Location: login.php"); //valid login
-// }
-// $id = 
+
 if ($exists == true){
   $logger = new KLogger("dao.txt" , KLogger::WARN);
   $logger->LogWarn("Good");

@@ -17,7 +17,7 @@ require_once 'Dao.php';
   $_SESSION['message_type'] = "happy";
 
   if (empty($username) && empty($restaurant_name) && empty($review)) {
-    $_SESSION['message'] = "*Please enter a username\n *Please enter a restaurant name\n *Please enter a review";
+    $_SESSION['message'] = "*Please enter a username \n*Please enter a restaurant name\n *Please enter a review";
     $_SESSION['message_type'] = "sad";
     header("Location: newReview.php");
     exit();
@@ -28,7 +28,7 @@ require_once 'Dao.php';
   }
 
   if (empty($username) && empty($restaurant_name)) {
-    $_SESSION['message'] = "*Please enter a username\n *Please enter a restaurant name";
+    $_SESSION['message'] = "*Please enter a username \n*Please enter a restaurant name";
     $_SESSION['message_type'] = "sad";
     header("Location: newReview.php");
     exit();
@@ -38,7 +38,7 @@ require_once 'Dao.php';
   }
 
   if (empty($username) && empty($review)) {
-    $_SESSION['message'] = "*Please enter a username\n *Please enter a review";
+    $_SESSION['message'] = "*Please enter a username \n*Please enter a review";
     $_SESSION['message_type'] = "sad";
     header("Location: newReview.php");
     exit();
@@ -48,7 +48,7 @@ require_once 'Dao.php';
   }
 
   if (empty($restaurant_name) && empty($review)) {
-    $_SESSION['message'] = "*Please enter a restaurant name\n *Please enter a review";
+    $_SESSION['message'] = "*Please enter a restaurant name \n*Please enter a review";
     $_SESSION['message_type'] = "sad";
     header("Location: newReview.php");
     exit();

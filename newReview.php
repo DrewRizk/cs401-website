@@ -6,17 +6,14 @@ require_once 'Dao.php';
 ini_set('display_errors', '1');
 ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
-
-
-
-
 ?>
   <div id="content">
     <h4 class="guidance_messages"> Create a new review using the form below: </h4>
   </div>
   <?php
   if(isset($_SESSION['message'])) {
-  echo "<div class='" . $_SESSION['message_type'] . "' id='message'>" . $_SESSION['message'] . " <div class='close'>X</div></div>";
+  // echo "<div class='" . $_SESSION['message_type'] . "' id='message'>" . $_SESSION['message'] . " <div class='close'>X</div></div>";
+  echo "<div class='" . $_SESSION['message_type'] . "' id='message'> <div class='close'>X</div>" . $_SESSION['message'] . "</div>";
   // echo "<div class='" . $_SESSION['message_type'] . "' id='message'>" . $_SESSION['message'] . " <span class='close'>X</span></div>";
   unset($_SESSION['message']);
   }
