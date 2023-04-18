@@ -1,8 +1,7 @@
 
 <html>
 <?php 
-session_start();
-include("nav.php"); 
+include("nav.php");
 require_once 'Dao.php';
 require_once "Widgets.php";
 ini_set('display_errors', '1');

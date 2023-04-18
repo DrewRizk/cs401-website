@@ -17,6 +17,7 @@ error_reporting(E_ALL);
   <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <div class="login-reg-form">
     <h1>Registration Page</h1>
   <?php
   if(isset($_SESSION['message'])) {
@@ -33,6 +34,7 @@ error_reporting(E_ALL);
     </form>
 
    <a href="login.php"> Click here to go back to login page </a>
+   </div>
 
   </body>
 </html>

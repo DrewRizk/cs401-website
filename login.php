@@ -1,8 +1,6 @@
 
 <?php 
 session_start();
-require_once "Widgets.php";
-require_once 'Dao.php';
 ini_set('display_errors', '1');
 ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
@@ -17,6 +15,7 @@ error_reporting(E_ALL);
   <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <div class="login-reg-form">
     <h1>Login Page</h1>
     <?php
     if(isset($_SESSION['message'])) {
@@ -33,6 +32,7 @@ error_reporting(E_ALL);
     </form>
 
    <a href="register_user.php"> Click here to register now! </a>
+  </div>
 
   </body>
 </html>

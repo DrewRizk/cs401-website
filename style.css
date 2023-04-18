@@ -17,7 +17,6 @@
     margin: 1px;
     padding: 0;
     overflow: hidden;
-    background-color: white;
   }
   
   .navbar-left-list li {
@@ -363,6 +362,12 @@ input[type=submit]:hover {
   /* border: 1px solid black; */
 }
 
+#review_table tr:nth-child(odd)
+{
+  background-color: whitesmoke;
+  /* border: 1px solid black; */
+}
+
 #review_table tr:nth-child(even)
 {
   background-color: #f2f2f2;
@@ -446,10 +451,26 @@ a:focus {
 }
 
 #register_user_submit{
-  margin-right: 1100px;
+  margin-right: 610px;
 }
 
 #login_user_submit{
-  margin-right: 1100px;
+  margin-right: 600px;
+  
 }
+
+body{
+  background-color: lightslategray;
+
+}
+
+h1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.login-reg-form{
+  margin-left: 550px;
+  margin-top: 250px;
+}
+
 

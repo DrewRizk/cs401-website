@@ -6,7 +6,10 @@ error_reporting(E_ALL);
 require_once 'Dao.php';
 
 require_once 'KLogger.php';
-$logger = new KLogger ("dao.txt" , KLogger::WARN);
+$logger = new KLogger ("logout.txt" , KLogger::WARN);
+$auth = $_SESSION['auth'];
+$logger->LogWarn("Beginning of login_handler");
+$logger->LogWarn($auth);
 
 
 $username = $_POST['username'];
@@ -14,7 +17,7 @@ $password = $_POST['password'];
 //hash inputted password and compare it to the password in database
 $salt = "mysalt";
 $hashed_password = crypt($password, $salt);
-$logger->LogWarn($hashed_password);
+// $logger->LogWarn($hashed_password);
 $_SESSION['name'] = $username;
 $_SESSION['inputs'] = $_POST;
 
@@ -52,7 +55,7 @@ if ($user_id == true){
 
 if ($exists == true){
   $logger = new KLogger("dao.txt" , KLogger::WARN);
-  $logger->LogWarn("Good");
+  $logger->LogWarn("Setting auth to true");
   $_SESSION['auth'] = true;
   header("Location: newReview.php"); //user already exists
 }else{

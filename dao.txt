@@ -1792,3 +1792,628 @@
 1681625981 - WARN  --> favorites 
 1681625983 - WARN  --> restaurants 
 1681625985 - WARN  --> index 
+1681777027 - WARN  --> index 
+1681777030 - WARN  --> newReview 
+1681777031 - WARN  --> favorites 
+1681777032 - WARN  --> restaurants 
+1681777034 - WARN  --> favorites 
+1681777034 - WARN  --> newReview 
+1681777035 - WARN  --> index 
+1681777039 - WARN  --> newReview 
+1681777040 - WARN  --> favorites 
+1681777041 - WARN  --> restaurants 
+1681777051 - WARN  --> favorites 
+1681777448 - WARN  --> restaurants 
+1681777449 - WARN  --> newReview 
+1681777450 - WARN  --> index 
+1681777453 - WARN  --> favorites 
+1681777453 - WARN  --> newReview 
+1681777463 - WARN  --> restaurants 
+1681777467 - WARN  --> favorites 
+1681792606 - WARN  --> favorites 
+1681792611 - WARN  --> index 
+1681792612 - WARN  --> newReview 
+1681792613 - WARN  --> favorites 
+1681792614 - WARN  --> index 
+1681792617 - WARN  --> newReview 
+1681792623 - WARN  --> favorites 
+1681792627 - WARN  --> restaurants 
+1681792633 - WARN  --> favorites 
+1681792634 - WARN  --> restaurants 
+1681792771 - WARN  --> restaurants 
+1681792791 - WARN  --> favorites 
+1681792791 - WARN  --> newReview 
+1681792792 - WARN  --> restaurants 
+1681792793 - WARN  --> favorites 
+1681792795 - WARN  --> newReview 
+1681792796 - WARN  --> index 
+1681792805 - WARN  --> newReview 
+1681792808 - WARN  --> favorites 
+1681792809 - WARN  --> newReview 
+1681792812 - WARN  --> index 
+1681792815 - WARN  --> favorites 
+1681792873 - WARN  --> favorites 
+1681792876 - WARN  --> favorites 
+1681792878 - WARN  --> favorites 
+1681792878 - WARN  --> favorites 
+1681792879 - WARN  --> newReview 
+1681792879 - WARN  --> index 
+1681792880 - WARN  --> favorites 
+1681792935 - WARN  --> favorites 
+1681793034 - WARN  --> favorites 
+1681793105 - WARN  --> favorites 
+1681793107 - WARN  --> favorites 
+1681793108 - WARN  --> favorites 
+1681793120 - WARN  --> favorites 
+1681793126 - WARN  --> favorites 
+1681793126 - WARN  --> favorites 
+1681793127 - WARN  --> favorites 
+1681793157 - WARN  --> favorites 
+1681793177 - WARN  --> favorites 
+1681793180 - WARN  --> favorites 
+1681793198 - WARN  --> favorites 
+1681793200 - WARN  --> favorites 
+1681793218 - WARN  --> restaurants 
+1681793220 - WARN  --> favorites 
+1681793223 - WARN  --> index 
+1681793238 - WARN  --> newReview 
+1681793238 - WARN  --> favorites 
+1681793240 - WARN  --> newReview 
+1681793243 - WARN  --> favorites 
+1681793244 - WARN  --> restaurants 
+1681793248 - WARN  --> favorites 
+1681793249 - WARN  --> newReview 
+1681793251 - WARN  --> index 
+1681793253 - WARN  --> newReview 
+1681793255 - WARN  --> newReview 
+1681793259 - WARN  --> restaurants 
+1681793261 - WARN  --> favorites 
+1681793263 - WARN  --> restaurants 
+1681793265 - WARN  --> index 
+1681793377 - WARN  --> index 
+1681793379 - WARN  --> restaurants 
+1681793380 - WARN  --> favorites 
+1681793382 - WARN  --> newReview 
+1681793383 - WARN  --> index 
+1681793399 - WARN  --> index 
+1681793412 - WARN  --> index 
+1681793423 - WARN  --> newReview 
+1681793423 - WARN  --> favorites 
+1681793426 - WARN  --> restaurants 
+1681793431 - WARN  --> favorites 
+1681793432 - WARN  --> newReview 
+1681793434 - WARN  --> index 
+1681793492 - WARN  --> index 
+1681793526 - WARN  --> index 
+1681793526 - WARN  --> index 
+1681793527 - WARN  --> index 
+1681793528 - WARN  --> index 
+1681793528 - WARN  --> index 
+1681793528 - WARN  --> index 
+1681793560 - WARN  --> index 
+1681793563 - WARN  --> newReview 
+1681793563 - WARN  --> favorites 
+1681793564 - WARN  --> restaurants 
+1681793566 - WARN  --> index 
+1681793582 - WARN  --> index 
+1681793609 - WARN  --> index 
+1681793618 - WARN  --> index 
+1681793631 - WARN  --> index 
+1681793677 - WARN  --> index 
+1681793680 - WARN  --> newReview 
+1681793681 - WARN  --> favorites 
+1681793682 - WARN  --> index 
+1681793684 - WARN  --> index 
+1681793686 - WARN  --> index 
+1681793686 - WARN  --> index 
+1681793701 - WARN  --> newReview 
+1681793702 - WARN  --> favorites 
+1681793703 - WARN  --> restaurants 
+1681793707 - WARN  --> /////////// 
+1681793707 - WARN  --> 164 
+1681793707 - WARN  --> Big Juds 
+1681793707 - WARN  --> drewrizk 
+1681793707 - WARN  --> restaurants 
+1681793708 - WARN  --> favorites 
+1681793718 - WARN  --> favorites 
+1681793719 - WARN  --> restaurants 
+1681793721 - WARN  --> favorites 
+1681793722 - WARN  --> newReview 
+1681793723 - WARN  --> index 
+1681793756 - WARN  --> index 
+1681793816 - WARN  --> index 
+1681793821 - WARN  --> newReview 
+1681793822 - WARN  --> favorites 
+1681793823 - WARN  --> restaurants 
+1681793825 - WARN  --> newReview 
+1681793825 - WARN  --> index 
+1681793836 - WARN  --> index 
+1681793867 - WARN  --> index 
+1681793874 - WARN  --> newReview 
+1681793875 - WARN  --> favorites 
+1681793877 - WARN  --> restaurants 
+1681793879 - WARN  --> favorites 
+1681793881 - WARN  --> newReview 
+1681793882 - WARN  --> index 
+1681793907 - WARN  --> index 
+1681793909 - WARN  --> index 
+1681793910 - WARN  --> index 
+1681793912 - WARN  --> newReview 
+1681793913 - WARN  --> favorites 
+1681793914 - WARN  --> restaurants 
+1681793919 - WARN  --> index 
+1681793920 - WARN  --> newReview 
+1681793922 - WARN  --> favorites 
+1681793923 - WARN  --> restaurants 
+1681793932 - WARN  --> favorites 
+1681793933 - WARN  --> newReview 
+1681793934 - WARN  --> index 
+1681793936 - WARN  --> newReview 
+1681793937 - WARN  --> favorites 
+1681793938 - WARN  --> restaurants 
+1681793942 - WARN  --> restaurants 
+1681794017 - WARN  --> restaurants 
+1681794021 - WARN  --> restaurants 
+1681794023 - WARN  --> restaurants 
+1681794024 - WARN  --> restaurants 
+1681794026 - WARN  --> index 
+1681794040 - WARN  --> index 
+1681794042 - WARN  --> index 
+1681794044 - WARN  --> index 
+1681794046 - WARN  --> index 
+1681794050 - WARN  --> index 
+1681794062 - WARN  --> index 
+1681794065 - WARN  --> index 
+1681794067 - WARN  --> index 
+1681794070 - WARN  --> index 
+1681794078 - WARN  --> index 
+1681794099 - WARN  --> index 
+1681794103 - WARN  --> favorites 
+1681794104 - WARN  --> favorites 
+1681794105 - WARN  --> favorites 
+1681794110 - WARN  --> favorites 
+1681794342 - WARN  --> myAjnPmbdo5wY 
+1681794343 - WARN  --> Its finding the user 
+1681794343 - WARN  --> Good 
+1681794354 - WARN  --> myAjnPmbdo5wY 
+1681794354 - WARN  --> Its finding the user 
+1681794354 - WARN  --> Good 
+1681794378 - WARN  --> my0/heAaB9Bgk 
+1681794379 - WARN  --> Its finding the user 
+1681794379 - WARN  --> Good 
+1681794627 - WARN  --> myAjnPmbdo5wY 
+1681794628 - WARN  --> Its finding the user 
+1681794628 - WARN  --> Good 
+1681794628 - WARN  --> Auth failed 
+1681794715 - WARN  --> myAjnPmbdo5wY 
+1681794716 - WARN  --> Its finding the user 
+1681794716 - WARN  --> Good 
+1681794716 - WARN  --> 1 
+1681794716 - WARN  --> Auth failed 
+1681794764 - WARN  --> myAjnPmbdo5wY 
+1681794765 - WARN  --> Its finding the user 
+1681794765 - WARN  --> Good 
+1681794765 - WARN  --> 1 
+1681794765 - WARN  --> Auth failed 
+1681795020 - WARN  --> myAjnPmbdo5wY 
+1681795021 - WARN  --> Its finding the user 
+1681795022 - WARN  --> Good 
+1681795022 - WARN  --> newReview 
+1681795023 - WARN  --> favorites 
+1681795023 - WARN  --> restaurants 
+1681795024 - WARN  --> index 
+1681795029 - WARN  --> index 
+1681795168 - WARN  --> myAjnPmbdo5wY 
+1681795169 - WARN  --> Its finding the user 
+1681795169 - WARN  --> Good 
+1681795169 - WARN  --> newReview 
+1681795181 - WARN  --> newReview 
+1681795185 - WARN  --> favorites 
+1681795188 - WARN  --> favorites 
+1681795189 - WARN  --> restaurants 
+1681795192 - WARN  --> restaurants 
+1681795193 - WARN  --> index 
+1681795196 - WARN  --> index 
+1681795300 - WARN  --> index 
+1681795308 - WARN  --> myAjnPmbdo5wY 
+1681795309 - WARN  --> Its finding the user 
+1681795309 - WARN  --> Good 
+1681795309 - WARN  --> newReview 
+1681795315 - WARN  --> newReview 
+1681795318 - WARN  --> newReview 
+1681795319 - WARN  --> newReview 
+1681795320 - WARN  --> newReview 
+1681795320 - WARN  --> newReview 
+1681795320 - WARN  --> newReview 
+1681795320 - WARN  --> newReview 
+1681795322 - WARN  --> newReview 
+1681795324 - WARN  --> newReview 
+1681795752 - WARN  --> myAjnPmbdo5wY 
+1681795753 - WARN  --> Its finding the user 
+1681795753 - WARN  --> Good 
+1681795804 - WARN  --> myAjnPmbdo5wY 
+1681795804 - WARN  --> Its finding the user 
+1681795805 - WARN  --> Good 
+1681795825 - WARN  --> myAjnPmbdo5wY 
+1681795825 - WARN  --> Its finding the user 
+1681795826 - WARN  --> Setting auth to true 
+1681795892 - WARN  --> myAjnPmbdo5wY 
+1681795893 - WARN  --> Its finding the user 
+1681795894 - WARN  --> Setting auth to true 
+1681796397 - WARN  --> myAjnPmbdo5wY 
+1681796398 - WARN  --> Its finding the user 
+1681796398 - WARN  --> Setting auth to true 
+1681796464 - WARN  --> myAjnPmbdo5wY 
+1681796464 - WARN  --> Its finding the user 
+1681796465 - WARN  --> Setting auth to true 
+1681796558 - WARN  --> newReview 
+1681796562 - WARN  --> newReview 
+1681796567 - WARN  --> myAjnPmbdo5wY 
+1681796568 - WARN  --> Its finding the user 
+1681796568 - WARN  --> Setting auth to true 
+1681796568 - WARN  --> newReview 
+1681796569 - WARN  --> favorites 
+1681796595 - WARN  --> favorites 
+1681796597 - WARN  --> newReview 
+1681796598 - WARN  --> favorites 
+1681796629 - WARN  --> favorites 
+1681796632 - WARN  --> index 
+1681796633 - WARN  --> favorites 
+1681796659 - WARN  --> favorites 
+1681796660 - WARN  --> favorites 
+1681796660 - WARN  --> favorites 
+1681796662 - WARN  --> index 
+1681796663 - WARN  --> newReview 
+1681796664 - WARN  --> favorites 
+1681796666 - WARN  --> restaurants 
+1681796667 - WARN  --> favorites 
+1681796669 - WARN  --> restaurants 
+1681796670 - WARN  --> newReview 
+1681796671 - WARN  --> index 
+1681796673 - WARN  --> newReview 
+1681796710 - WARN  --> favorites 
+1681796712 - WARN  --> restaurants 
+1681796726 - WARN  --> restaurants 
+1681796727 - WARN  --> favorites 
+1681796728 - WARN  --> restaurants 
+1681796730 - WARN  --> newReview 
+1681796731 - WARN  --> index 
+1681796732 - WARN  --> newReview 
+1681796733 - WARN  --> favorites 
+1681796736 - WARN  --> favorites 
+1681796737 - WARN  --> restaurants 
+1681796739 - WARN  --> favorites 
+1681796741 - WARN  --> restaurants 
+1681796742 - WARN  --> /////////// 
+1681796742 - WARN  --> 164 
+1681796742 - WARN  --> Katies Pies 
+1681796742 - WARN  --> drewrizk 
+1681796743 - WARN  --> restaurants 
+1681796744 - WARN  --> favorites 
+1681796746 - WARN  --> newReview 
+1681796747 - WARN  --> index 
+1681796749 - WARN  --> newReview 
+1681796758 - WARN  --> newReview 
+1681796761 - WARN  --> favorites 
+1681796762 - WARN  --> newReview 
+1681796855 - WARN  --> myAjnPmbdo5wY 
+1681796855 - WARN  --> Its finding the user 
+1681796856 - WARN  --> Setting auth to true 
+1681796856 - WARN  --> 1 
+1681796856 - WARN  --> newReview 
+1681796954 - WARN  --> mye0ciurTOsRc 
+1681796965 - WARN  --> mye0ciurTOsRc 
+1681796969 - WARN  --> mye0ciurTOsRc 
+1681796977 - WARN  --> mye0ciurTOsRc 
+1681796982 - WARN  --> mye0ciurTOsRc 
+1681797006 - WARN  --> mye0ciurTOsRc 
+1681797012 - WARN  --> mye0ciurTOsRc 
+1681797017 - WARN  --> myAjnPmbdo5wY 
+1681797018 - WARN  --> Its finding the user 
+1681797019 - WARN  --> Setting auth to true 
+1681797019 - WARN  --> 1 
+1681797019 - WARN  --> newReview 
+1681797023 - WARN  --> mye0ciurTOsRc 
+1681797029 - WARN  --> mye0ciurTOsRc 
+1681797035 - WARN  --> myAjnPmbdo5wY 
+1681797036 - WARN  --> Its finding the user 
+1681797037 - WARN  --> Setting auth to true 
+1681797037 - WARN  --> 1 
+1681797037 - WARN  --> newReview 
+1681797041 - WARN  --> mye0ciurTOsRc 
+1681797046 - WARN  --> myAjnPmbdo5wY 
+1681797047 - WARN  --> Its finding the user 
+1681797047 - WARN  --> Setting auth to true 
+1681797047 - WARN  --> 1 
+1681797047 - WARN  --> newReview 
+1681797075 - WARN  --> mye0ciurTOsRc 
+1681797323 - WARN  --> myAjnPmbdo5wY 
+1681797324 - WARN  --> Its finding the user 
+1681797324 - WARN  --> Setting auth to true 
+1681797324 - WARN  --> 1 
+1681797324 - WARN  --> newReview 
+1681797328 - WARN  --> 1 
+1681797328 - WARN  --> newReview 
+1681797330 - WARN  --> 1 
+1681797330 - WARN  --> newReview 
+1681797330 - WARN  --> 1 
+1681797330 - WARN  --> newReview 
+1681797330 - WARN  --> 1 
+1681797330 - WARN  --> newReview 
+1681797330 - WARN  --> 1 
+1681797330 - WARN  --> newReview 
+1681797330 - WARN  --> 1 
+1681797330 - WARN  --> newReview 
+1681797335 - WARN  --> 1 
+1681797335 - WARN  --> newReview 
+1681797335 - WARN  --> 1 
+1681797335 - WARN  --> newReview 
+1681797336 - WARN  --> 1 
+1681797336 - WARN  --> newReview 
+1681797336 - WARN  --> 1 
+1681797336 - WARN  --> newReview 
+1681797341 - WARN  --> 1 
+1681797341 - WARN  --> newReview 
+1681797387 - WARN  --> 1 
+1681797387 - WARN  --> newReview 
+1681797387 - WARN  --> 1 
+1681797387 - WARN  --> newReview 
+1681797387 - WARN  --> 1 
+1681797387 - WARN  --> newReview 
+1681797388 - WARN  --> 1 
+1681797388 - WARN  --> newReview 
+1681797388 - WARN  --> 1 
+1681797388 - WARN  --> newReview 
+1681797394 - WARN  --> 1 
+1681797394 - WARN  --> newReview 
+1681797399 - WARN  --> mye0ciurTOsRc 
+1681797404 - WARN  --> myAjnPmbdo5wY 
+1681797404 - WARN  --> Its finding the user 
+1681797405 - WARN  --> Setting auth to true 
+1681797405 - WARN  --> 1 
+1681797405 - WARN  --> newReview 
+1681797410 - WARN  --> 1 
+1681797410 - WARN  --> newReview 
+1681797486 - WARN  --> myAjnPmbdo5wY 
+1681797486 - WARN  --> Its finding the user 
+1681797488 - WARN  --> Setting auth to true 
+1681797488 - WARN  --> 1 
+1681797488 - WARN  --> newReview 
+1681797494 - WARN  --> 1 
+1681797494 - WARN  --> favorites 
+1681797495 - WARN  --> 1 
+1681797495 - WARN  --> index 
+1681797496 - WARN  --> 1 
+1681797496 - WARN  --> newReview 
+1681797502 - WARN  --> 1 
+1681797502 - WARN  --> newReview 
+1681797505 - WARN  --> 1 
+1681797505 - WARN  --> newReview 
+1681797602 - WARN  --> myAjnPmbdo5wY 
+1681797603 - WARN  --> Its finding the user 
+1681797603 - WARN  --> Setting auth to true 
+1681797603 - WARN  --> 1 
+1681797603 - WARN  --> newReview 
+1681797604 - WARN  --> 1 
+1681797604 - WARN  --> favorites 
+1681797605 - WARN  --> 1 
+1681797605 - WARN  --> restaurants 
+1681797606 - WARN  --> 1 
+1681797606 - WARN  --> index 
+1681797614 - WARN  --> 1 
+1681797614 - WARN  --> index 
+1681797669 - WARN  --> 1 
+1681797669 - WARN  --> index 
+1681797670 - WARN  --> 1 
+1681797670 - WARN  --> index 
+1681797670 - WARN  --> 1 
+1681797670 - WARN  --> index 
+1681797678 - WARN  --> myAjnPmbdo5wY 
+1681797679 - WARN  --> Its finding the user 
+1681797679 - WARN  --> Setting auth to true 
+1681797679 - WARN  --> 1 
+1681797679 - WARN  --> newReview 
+1681797682 - WARN  --> 1 
+1681797682 - WARN  --> favorites 
+1681797683 - WARN  --> 1 
+1681797683 - WARN  --> newReview 
+1681797691 - WARN  --> 1 
+1681797691 - WARN  --> newReview 
+1681797753 - WARN  --> 1 
+1681797753 - WARN  --> newReview 
+1681797754 - WARN  --> 1 
+1681797754 - WARN  --> favorites 
+1681797761 - WARN  --> myAjnPmbdo5wY 
+1681797762 - WARN  --> Its finding the user 
+1681797762 - WARN  --> Setting auth to true 
+1681797762 - WARN  --> 1 
+1681797762 - WARN  --> newReview 
+1681797763 - WARN  --> 1 
+1681797763 - WARN  --> favorites 
+1681797764 - WARN  --> 1 
+1681797764 - WARN  --> restaurants 
+1681797766 - WARN  --> 1 
+1681797766 - WARN  --> index 
+1681797767 - WARN  --> 1 
+1681797767 - WARN  --> newReview 
+1681797773 - WARN  --> 1 
+1681797773 - WARN  --> newReview 
+1681797908 - WARN  --> 1 
+1681797908 - WARN  --> newReview 
+1681797909 - WARN  --> 1 
+1681797909 - WARN  --> newReview 
+1681797915 - WARN  --> myAjnPmbdo5wY 
+1681797916 - WARN  --> Its finding the user 
+1681797916 - WARN  --> Setting auth to true 
+1681797916 - WARN  --> 1 
+1681797916 - WARN  --> newReview 
+1681797926 - WARN  --> 1 
+1681797926 - WARN  --> newReview 
+1681797980 - WARN  --> 1 
+1681797980 - WARN  --> newReview 
+1681798029 - WARN  --> myAjnPmbdo5wY 
+1681798029 - WARN  --> Its finding the user 
+1681798030 - WARN  --> Setting auth to true 
+1681798030 - WARN  --> 1 
+1681798030 - WARN  --> newReview 
+1681798048 - WARN  --> myAjnPmbdo5wY 
+1681798048 - WARN  --> Its finding the user 
+1681798049 - WARN  --> Setting auth to true 
+1681798049 - WARN  --> newReview 
+1681798074 - WARN  --> newReview 
+1681798161 - WARN  --> mye0ciurTOsRc 
+1681798164 - WARN  --> newReview 
+1681798208 - WARN  --> myAjnPmbdo5wY 
+1681798209 - WARN  --> Its finding the user 
+1681798209 - WARN  --> Setting auth to true 
+1681798209 - WARN  --> newReview 
+1681798267 - WARN  --> myAjnPmbdo5wY 
+1681798267 - WARN  --> Its finding the user 
+1681798268 - WARN  --> Setting auth to true 
+1681798268 - WARN  --> newReview 
+1681798299 - WARN  --> newReview 
+1681798336 - WARN  --> myAjnPmbdo5wY 
+1681798336 - WARN  --> Its finding the user 
+1681798337 - WARN  --> Setting auth to true 
+1681798337 - WARN  --> newReview 
+1681798374 - WARN  --> myAjnPmbdo5wY 
+1681798374 - WARN  --> Its finding the user 
+1681798374 - WARN  --> Setting auth to true 
+1681798374 - WARN  --> newReview 
+1681798389 - WARN  --> newReview 
+1681798392 - WARN  --> newReview 
+1681798394 - WARN  --> newReview 
+1681798396 - WARN  --> newReview 
+1681798396 - WARN  --> newReview 
+1681798399 - WARN  --> newReview 
+1681798417 - WARN  --> In nav and its not saying its set 
+1681798419 - WARN  --> mye0ciurTOsRc 
+1681798425 - WARN  --> myAjnPmbdo5wY 
+1681798425 - WARN  --> Its finding the user 
+1681798426 - WARN  --> Setting auth to true 
+1681798426 - WARN  --> newReview 
+1681798483 - WARN  --> myAjnPmbdo5wY 
+1681798484 - WARN  --> Its finding the user 
+1681798484 - WARN  --> Setting auth to true 
+1681798484 - WARN  --> newReview 
+1681798663 - WARN  --> Its finding the user 
+1681798663 - WARN  --> Setting auth to true 
+1681798663 - WARN  --> newReview 
+1681798665 - WARN  --> newReview 
+1681798700 - WARN  --> newReview 
+1681798715 - WARN  --> Its finding the user 
+1681798716 - WARN  --> Setting auth to true 
+1681798716 - WARN  --> newReview 
+1681798772 - WARN  --> Its finding the user 
+1681798772 - WARN  --> Setting auth to true 
+1681798772 - WARN  --> newReview 
+1681798869 - WARN  --> Its finding the user 
+1681798870 - WARN  --> Setting auth to true 
+1681798870 - WARN  --> newReview 
+1681798940 - WARN  --> Its finding the user 
+1681798940 - WARN  --> Setting auth to true 
+1681798940 - WARN  --> newReview 
+1681799012 - WARN  --> Its finding the user 
+1681799013 - WARN  --> Setting auth to true 
+1681799013 - WARN  --> newReview 
+1681799059 - WARN  --> Its finding the user 
+1681799060 - WARN  --> Setting auth to true 
+1681799060 - WARN  --> newReview 
+1681799072 - WARN  --> newReview 
+1681799084 - WARN  --> Its finding the user 
+1681799084 - WARN  --> Setting auth to true 
+1681799084 - WARN  --> newReview 
+1681799176 - WARN  --> Its finding the user 
+1681799176 - WARN  --> Setting auth to true 
+1681799176 - WARN  --> newReview 
+1681799246 - WARN  --> Its finding the user 
+1681799247 - WARN  --> Setting auth to true 
+1681799247 - WARN  --> newReview 
+1681799319 - WARN  --> Its finding the user 
+1681799319 - WARN  --> Setting auth to true 
+1681799319 - WARN  --> newReview 
+1681799372 - WARN  --> Its finding the user 
+1681799372 - WARN  --> Setting auth to true 
+1681799372 - WARN  --> newReview 
+1681844142 - WARN  --> Its finding the user 
+1681844142 - WARN  --> Setting auth to true 
+1681844142 - WARN  --> newReview 
+1681844153 - WARN  --> newReview 
+1681844176 - WARN  --> favorites 
+1681844178 - WARN  --> restaurants 
+1681844180 - WARN  --> /////////// 
+1681844180 - WARN  --> 214 
+1681844180 - WARN  --> Big Juds 
+1681844180 - WARN  --> testing 
+1681844181 - WARN  --> restaurants 
+1681844182 - WARN  --> /////////// 
+1681844182 - WARN  --> 214 
+1681844182 - WARN  --> Big Juds 
+1681844182 - WARN  --> testing 
+1681844182 - WARN  --> restaurants 
+1681844183 - WARN  --> favorites 
+1681844187 - WARN  --> favorites 
+1681844188 - WARN  --> newReview 
+1681844189 - WARN  --> index 
+1681844201 - WARN  --> newReview 
+1681844201 - WARN  --> favorites 
+1681844209 - WARN  --> restaurants 
+1681844210 - WARN  --> index 
+1681844236 - WARN  --> index 
+1681844237 - WARN  --> index 
+1681844238 - WARN  --> index 
+1681844238 - WARN  --> index 
+1681844239 - WARN  --> newReview 
+1681844240 - WARN  --> favorites 
+1681844241 - WARN  --> restaurants 
+1681844242 - WARN  --> favorites 
+1681844242 - WARN  --> newReview 
+1681844243 - WARN  --> index 
+1681844245 - WARN  --> newReview 
+1681844249 - WARN  --> favorites 
+1681844251 - WARN  --> restaurants 
+1681844254 - WARN  --> restaurants 
+1681844767 - WARN  --> restaurants 
+1681844769 - WARN  --> restaurants 
+1681844769 - WARN  --> restaurants 
+1681844769 - WARN  --> restaurants 
+1681844770 - WARN  --> restaurants 
+1681844790 - WARN  --> restaurants 
+1681844799 - WARN  --> restaurants 
+1681844822 - WARN  --> Its finding the user 
+1681844822 - WARN  --> Setting auth to true 
+1681844822 - WARN  --> newReview 
+1681844971 - WARN  --> Its finding the user 
+1681844971 - WARN  --> Setting auth to true 
+1681844971 - WARN  --> newReview 
+1681844974 - WARN  --> In nav and its not saying its set 
+1681846325 - WARN  --> Its finding the user 
+1681846326 - WARN  --> Setting auth to true 
+1681846326 - WARN  --> newReview 
+1681846327 - WARN  --> favorites 
+1681846327 - WARN  --> restaurants 
+1681846329 - WARN  --> favorites 
+1681846332 - WARN  --> In nav and its not saying its set 
+1681846889 - WARN  --> Its finding the user 
+1681846889 - WARN  --> Setting auth to true 
+1681846889 - WARN  --> newReview 
+1681846890 - WARN  --> index 
+1681846891 - WARN  --> favorites 
+1681846893 - WARN  --> index 
+1681846909 - WARN  --> newReview 
+1681846913 - WARN  --> newReview 
+1681846959 - WARN  --> favorites 
+1681846960 - WARN  --> restaurants 
+1681846965 - WARN  --> favorites 
+1681846966 - WARN  --> newReview 
+1681846967 - WARN  --> favorites 
+1681846967 - WARN  --> restaurants 
+1681847034 - WARN  --> favorites 
+1681847035 - WARN  --> newReview 
+1681847036 - WARN  --> index 
+1681847039 - WARN  --> newReview 
+1681847039 - WARN  --> favorites 
+1681847040 - WARN  --> restaurants 
+1681847042 - WARN  --> favorites 
+1681847042 - WARN  --> newReview 
+1681847043 - WARN  --> index 

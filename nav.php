@@ -1,13 +1,26 @@
 <?php
+ini_set('display_errors', '1');
+ini_set('display_startup_errors', '1');
+error_reporting(E_ALL); 
+ require_once 'KLogger.php';
+  $logger = new KLogger ("dao.txt" , KLogger::WARN);
    session_start();
-   require_once 'KLogger.php';
-   ini_set('display_errors', '1');
-    ini_set('display_startup_errors', '1');
-    error_reporting(E_ALL); 
+    $auth = $_SESSION['auth'];
+    // $logger->LogWarn($auth);
    if (!isset($_SESSION['auth'])) {
-      header("Location: login.php");
-      exit();
-   } 
+    $logger->LogWarn("In nav and its not saying its set");
+    header("Location: login.php");
+    exit();
+ } 
+  
+  //  if (!$_SESSION['auth']) {
+  //     $auth = $_SESSION['auth'];
+  //     $logger->LogWarn($auth);
+  //     $logger->LogWarn("Auth failed");
+  //     header("Location: login.php");
+  //     exit();
+  //  } 
+
 
    $index = "myButtons";
    $newReview = "myButtons";
@@ -15,7 +28,6 @@
    $restaurants = "myButtons";
 
    $menuLinkID = basename($_SERVER['PHP_SELF'], ".php");
-   $logger = new KLogger ("dao.txt" , KLogger::WARN);
 
    $logger->LogWarn($menuLinkID);
    if ($menuLinkID == "index"){
@@ -44,7 +56,7 @@
   <body>
   <div class ="navbar">
         <div class="button">
-          <a href="login.php"><button class="button-attributes"> LOGOUT </button></a>
+          <a href="logout.php"><button class="button-attributes"> LOGOUT </button></a>
         </div>
         <div class="navbar-left-list">
           <ul>
@@ -61,3 +73,4 @@
            <li><a class="<?php echo $restaurants;?>" href="restaurants.php">Restaurants</a></li>
          </ul>
       </div>
+  </body>
