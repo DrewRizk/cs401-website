@@ -80,7 +80,7 @@ class Dao {
   public function getReviews () { //get all of the reviews from the review table
     $conn = $this->getConnection();
     return $conn->query("SELECT username, restaurant_name, review_description,
-    location, rating FROM review")->fetchAll(PDO::FETCH_ASSOC);
+    location, rating FROM review ORDER BY datetime_entered DESC")->fetchAll(PDO::FETCH_ASSOC);
   }
 
   public function getRestaurants () { //get all of the reviews from the review table
@@ -191,5 +191,23 @@ class Dao {
     $q = $conn->prepare($deleteFav);
     $q->bindParam(":id", $id);
     $q->execute();
+  }
+
+
+
+  public function getRepeatFavorites($first_index, $restaurant_name){
+    $conn = $this->getConnection();
+    $q = $conn->prepare("SELECT * FROM favorite WHERE user_id = :user_id AND restaurant_name = :restaurant_name");
+    $q->bindParam(':user_id', $first_index);
+    $q->bindParam(':restaurant_name', $restaurant_name);
+    $q->execute();
+
+    if($q->rowCount() > 0){
+        echo "exists!";
+        return true;
+    } else {
+        echo "non existant";
+        return false;
+    }
   }
 } // end Dao

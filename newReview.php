@@ -12,12 +12,12 @@ error_reporting(E_ALL);
   </div>
   <?php
   if(isset($_SESSION['message'])) {
-  // echo "<div class='" . $_SESSION['message_type'] . "' id='message'>" . $_SESSION['message'] . " <div class='close'>X</div></div>";
-  echo "<div class='" . $_SESSION['message_type'] . "' id='message'> <div class='close'>X</div>" . $_SESSION['message'] . "</div>";
-  // echo "<div class='" . $_SESSION['message_type'] . "' id='message'>" . $_SESSION['message'] . " <span class='close'>X</span></div>";
-  unset($_SESSION['message']);
+    echo "<div class='" . $_SESSION['message_type'] . "' id='message'> <div class='close'>X</div>" . $_SESSION['message'] . "</div>";
+    unset($_SESSION['message']);
   }
+
   ?>
+  
 
     <div class="container">
      <form id="newReview_form" action="newReview_handler.php" method="POST" enctype="multipart/form-data">
@@ -26,7 +26,7 @@ error_reporting(E_ALL);
           <label for="username">Username</label>
         </div>
         <div class="col-75">
-          <input type="text"  id="username" name="username" placeholder="Your RestuarantMania Username..." value="<?php echo isset($_SESSION['inputs']['username']) ? $_SESSION['inputs']['username'] : '' ?>">
+          <input readonly type="text" id="username" name="username" placeholder="Your RestuarantMania Username..." value="<?php echo isset($_SESSION['inputs']['username']) ? $_SESSION['inputs']['username'] : '' ?>">
         </div>
       </div>
       <div class="row">

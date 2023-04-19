@@ -10,6 +10,13 @@ error_reporting(E_ALL);?>
   <div id="content">
   <h4> Take a look at all restaurants in our database so far! </h4>
   </div>
+  <?php
+  if(isset($_SESSION['message'])) {
+    echo "<div class='" . $_SESSION['message_type'] . "' id='message'> <div class='close'>X</div>" . $_SESSION['message'] . "</div>";
+    unset($_SESSION['message']);
+  }
+
+  ?>
 
   <div id="review_table">
   <?php

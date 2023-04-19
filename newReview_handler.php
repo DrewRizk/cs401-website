@@ -74,7 +74,7 @@ require_once 'Dao.php';
       $restaurant_name = test_input($restaurant_name);
       // check if name only contains letters and whitespace
       if (!preg_match("/^[a-zA-Z-' ]*$/",$restaurant_name)) {
-        $_SESSION['message'] = "*Please enter a valid restaurant name that only consists of letters and spaces";
+        $_SESSION['message'] = "*Please enter a valid restaurant name that only consists of letters";
         $_SESSION['message_type'] = "sad";
         header("Location: newReview.php");
         exit();
@@ -88,8 +88,8 @@ require_once 'Dao.php';
     exit();
   }else{
     $review = test_input($review);
-    if (!preg_match("/^[A-Za-z0-9' ]*$/",$review)) {
-      $_SESSION['message'] = "*Please enter a valid restaurant review that only consists of letters, numbers, and spaces";
+    if (!preg_match("/^[A-Za-z0-9\s\p{P}']*$/",$review)) {
+      $_SESSION['message'] = "*Please enter a valid restaurant review that only consists of letters, numbers, and and punctuation";
       $_SESSION['message_type'] = "sad";
       header("Location: newReview.php");
       exit();
