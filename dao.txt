@@ -2852,3 +2852,35 @@
 1681926274 - WARN  --> index 
 1681926281 - WARN  --> In nav and its not saying its set 
 1681926282 - WARN  --> In nav and its not saying its set 
+1681927448 - WARN  --> In nav and its not saying its set 
+1681927449 - WARN  --> In nav and its not saying its set 
+1681927454 - WARN  --> Its finding the user 
+1681927454 - WARN  --> Setting auth to true 
+1681927454 - WARN  --> newReview 
+1681927456 - WARN  --> favorites 
+1681927457 - WARN  --> restaurants 
+1681927460 - WARN  --> index 
+1681927461 - WARN  --> newReview 
+1681927462 - WARN  --> favorites 
+1681927463 - WARN  --> restaurants 
+1681927464 - WARN  --> index 
+1681927468 - WARN  --> restaurants 
+1681927471 - WARN  --> index 
+1681927480 - WARN  --> restaurants 
+1681927508 - WARN  --> favorites 
+1681927520 - WARN  --> index 
+1681927570 - WARN  --> index 
+1681927571 - WARN  --> newReview 
+1681927572 - WARN  --> favorites 
+1681927573 - WARN  --> restaurants 
+1681927575 - WARN  --> index 
+1681927596 - WARN  --> index 
+1681927604 - WARN  --> newReview 
+1681927604 - WARN  --> favorites 
+1681927606 - WARN  --> restaurants 
+1681927609 - WARN  --> favorites 
+1681927610 - WARN  --> newReview 
+1681927611 - WARN  --> index 
+1681927635 - WARN  --> favorites 
+1681927637 - WARN  --> restaurants 
+1681927639 - WARN  --> index 

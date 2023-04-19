@@ -4,7 +4,7 @@ class Widgets {
 
    public static function renderTable ($rows) {
       // $columnNames = array_keys($rows[0]);
-      $html = "<table><thead><tr>";
+      $html = "<table id='review_t'><thead><tr>";
   
       $html .= "<th>Username</th>";
       $html .= "<th>Restaurant Name</th>";
